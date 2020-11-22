@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Steven Bianco
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Florida SouthWestern State College
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
