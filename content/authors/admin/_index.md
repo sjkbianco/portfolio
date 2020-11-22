@@ -17,9 +17,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Learning Theory
+- Instructional Design
+- API
 
 education:
   courses:
@@ -40,16 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:sjkbianco@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/StevenBianco4
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sjbianco/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sjkbianco
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Steven Bianco is the Coordinator, Accessibility and LMS Administration serving Florida SouthWestern State College (FSW) from the College's Office of Information Technology (OIT) since August, 2018. He works closely with the Office of ADAptive Services, Teaching Learning Center, eLearning, and other areas. He holds a Bachelors of Applied Science in Supervision and Management from FSW and has been with the College for 15 years. His work centers on web accessibility, eLearning content, Assistive Technologies, and providing resources and guidance to promote increased access. Prior to working for OIT, he served the College’s Library Services as a Library Technology Systems Specialist integrating technologies for improved library services and workflows.
