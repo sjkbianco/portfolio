@@ -46,12 +46,11 @@ date_format = "Jan 2006"
   * Recommend best practices for EIT accessibility for new and existing technologies, including software, hardware, web-based applications, and documents.
   * Recommend and advises on EIT accessibility criteria for integration into development and testing processes, procedures, resource requirements, and schedules.
   * Identifies and recommends tools for developing and testing EIT accessibility.
-  * Assist in the development of:   
-  
-    * IT Accessibility Goals and Strategies Plan and works to keep these plans aligned with campus initiatives and efforts
-    * IT Accessibility Communications Plan to increase campus awareness and promote the goals of the Consortium and/or campus IT Accessibility
-    * Educational programs that clarify IT Accessibility requirements, priorities, and recommendations to raise the level of accessibility
-    * Campus-specific EIT plans for maintaining and monitoring compliance with Section 508 of the Rehabilitation act of 1973, the Americans with Disabilities Act, Web Content Accessibility Guide (WCAG 2.0), relevant copyright regulations, and other applicable regulations, as appropriate, to ensure compliance in the application of and use of technology for College programs and activities.
+  * Assist in the development of:
+  ** IT Accessibility Goals and Strategies Plan and works to keep these plans aligned with campus initiatives and efforts
+  ** IT Accessibility Communications Plan to increase campus awareness and promote the goals of the Consortium and/or campus IT Accessibility
+  ** Educational programs that clarify IT Accessibility requirements, priorities, and recommendations to raise the level of accessibility
+  ** Campus-specific EIT plans for maintaining and monitoring compliance with Section 508 of the Rehabilitation act of 1973, the Americans with Disabilities Act, Web Content Accessibility Guide (WCAG 2.0), relevant copyright regulations, and other applicable regulations, as appropriate, to ensure compliance in the application of and use of technology for College programs and activities.
   * Advises and supports the College in planning for the growth and scalability of assistive technologies.
   * Advises and collaborates with the CIO/IT Directors on policy development, administration, programming, and assessment with regard to IT Accessibility.
   * Regularly reports EIT accessibility status, progress, and other relevant information to the CIO and IT area directors.
