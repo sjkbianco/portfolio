@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   * Recommend and advises on EIT accessibility criteria for integration into development and testing processes, procedures, resource requirements, and schedules.
   * Identifies and recommends tools for developing and testing EIT accessibility.
   * Assist in the development of:
-  
+   
     * IT Accessibility Goals and Strategies Plan and works to keep these plans aligned with campus initiatives and efforts
     * IT Accessibility Communications Plan to increase campus awareness and promote the goals of the Consortium and/or campus IT Accessibility
     * Educational programs that clarify IT Accessibility requirements, priorities, and recommendations to raise the level of accessibility
