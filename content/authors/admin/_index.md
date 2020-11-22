@@ -6,7 +6,7 @@ title: Steven Bianco
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Coordinator of Accessibility and LMS Administration
 
 # Organizations/Affiliations
 organizations:
@@ -23,15 +23,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MA Curriculum and Instruction Educational Technology
+    institution: Florida Gulf Coast University
+    year: Expected Fall 2021
+  - course: BAS in Supervision and Management
+    institution: Florida SouthWestern State College
+    year: 2015
+  - course: Associate in Arts
+    institution: Edison College
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
