@@ -27,6 +27,8 @@ To help us develop this template and software sustainably under the MIT license,
 
 [![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png)](https://wowchemy.com)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/76da203d-2800-4ffb-99d9-b1c46be94102/deploy-status)](https://app.netlify.com/sites/sjkbianco/deploys)
+
 <!--
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
 -->
