@@ -25,7 +25,7 @@ education:
   courses:
   - course: MA Curriculum and Instruction Educational Technology
     institution: Florida Gulf Coast University
-    year: Expected Fall 2021
+    year: Expected graduation Fall 2021
   - course: BAS in Supervision and Management
     institution: Florida SouthWestern State College
     year: 2015
