@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Educational Technology Philosophy"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "hero-academic.jpg"
+# hero_media = ""
 
 [design.background]
   # Apply a background color, gradient, or image.
