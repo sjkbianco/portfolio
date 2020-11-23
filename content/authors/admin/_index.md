@@ -14,12 +14,15 @@ organizations:
   url: "https://www.fsw.edu/helpdesk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include instructional design, web accessibility, computer programming, and education.
 
 interests:
 - Learning Theory
 - Instructional Design
 - API
+- LTI
+- ICT
+- Electronic Information Technology (EIT) Accessibility
 
 education:
   courses:
