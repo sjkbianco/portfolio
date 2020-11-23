@@ -51,4 +51,5 @@ title = "Educational Technology Philosophy"
 #  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-**Inclusive, good-quality education is a foundation for dynamic and equitable societies.  -Desmond Tutu**
+> **Inclusive, good-quality education is a foundation for dynamic and equitable societies.**
+<p style="text-align: right;">&mdash; Desmond Tutu</p>
