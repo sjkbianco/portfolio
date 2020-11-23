@@ -41,15 +41,19 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:sjkbianco@gmail.com'
+  alt_text: Email Steven Bianco
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/StevenBianco4
+  alt_text: Steven Bianco on Twitter
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sjbianco/
+  alt_text: Steven Bianco on LinkedIn
 - icon: github
   icon_pack: fab
   link: https://github.com/sjkbianco
+  alt_text: Steven Bianco on GitHub
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
