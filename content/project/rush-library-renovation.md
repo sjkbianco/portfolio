@@ -1,6 +1,6 @@
 ---
 title: Richard H. Rush Library Renovation Project 
-summary: An example of using the in-built project page.
+summary: 
 tags:
 - Library
 date: "2007-01-15T00:00:00Z"
