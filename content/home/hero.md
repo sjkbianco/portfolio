@@ -25,7 +25,7 @@ title = "Educational Technology Philosophy"
   
   # Background image.
    image = "hero-academic.jpg"  # Name of image in `static/media/`.
-   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
    image_position = "center"  # Options include `left`, `center` (default), or `right`.
    image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
@@ -51,5 +51,5 @@ title = "Educational Technology Philosophy"
 #  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-> **Inclusive, good-quality education is a foundation for dynamic and equitable societies.**
-<p style="text-align: right;">&mdash; Desmond Tutu</p>
+> **<span style="color: #fff;">Inclusive, good-quality education is a foundation for dynamic and equitable societies.</span>**
+> <p style="text-align: right;"><em>&mdash; Desmond Tutu</em></p>
