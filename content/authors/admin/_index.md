@@ -10,8 +10,8 @@ role: Coordinator of Accessibility and LMS Administration
 
 # Organizations/Affiliations
 organizations:
-- name: Florida SouthWestern State College
-  url: ""
+- name: Office of Information Technology, Florida SouthWestern State College
+  url: "https://www.fsw.edu/helpdesk"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
