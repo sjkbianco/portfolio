@@ -52,6 +52,6 @@ title = "Educational Technology Philosophy"
 +++
 
 > **<span style="color: #fff;">Inclusive, good-quality education is a foundation for dynamic and equitable societies.</span>**
-> <p style="text-align: right; color: #fff;"><em>&mdash; Desmond Tutu</em></p>
+> <p style="text-align: right; color: #fff;"><em>&mdash; [Desmond Tutu](https://www.brainyquote.com/quotes/desmond_tutu_454160)</em></p>
 
 <small><span style="position:absolute; bottom:0; right:0; margin-right: 25px; margin-bottom: 15px;">Photo by <a href="https://unsplash.com/@joannakosinska?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joanna Kosinska</a> on <a href="https://unsplash.com/s/photos/education?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span></small>
