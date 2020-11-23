@@ -34,12 +34,12 @@ url_video: ""
 In September 2017 FSW Library Services decided to upgrade the existing LibGuides (CMS) to version 2.0 to provide a more responsive web platform for mobile devices as well as complying with Web Content Accessibility Guidelines (WCAG) web guidelines for accessibility. I was tasked to assist with the asset transfer/conversion between the versions and also provide an accessible color palette that was both visually appealing and readable by all patrons. In researching ways to best comply with the [contrast requirements within WCAG](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0#qr-contrast-enhanced), I came across the [accessibility color wheel tool](https://gmazzocato.altervista.org/colorwheel/wheel.php) that checks color choices against the WCAG 2.0 recommended contrast ratios. Another unique feature of this tool displays how the color choices would appear for persons with no color insensitivity, [deuteranopia](https://www.ncbi.nlm.nih.gov/gtr/conditions/C0155016/), [protanopia](https://www.ncbi.nlm.nih.gov/gtr/conditions/C0155015/), and [tritanopia](https://www.ncbi.nlm.nih.gov/gtr/conditions/C0155017/). The example shown below is a screenshot taken from the [Library's Tech FAQs LibGuide](http://researchguides.fsw.edu/TechFAQs) I had actively contributed content to utilizing the global color defaults I selected with the aid of the referenced web tool.
 
 <figure>
-  <img src="Screenshot from 2018-07-03 19-36-17.png" alt="Screenshot of FSW Library LibGuide titled Tech FAQs." style="width:100%">
+  <img src="/project/Screenshot from 2018-07-03 19-36-17.png" alt="Screenshot of FSW Library LibGuide titled Tech FAQs." style="width:100%">
   <figcaption>Figure 1. Depicting a graphic sample of the Tech FAQs LibGuides.</figcaption>
 </figure>
 
 <figure>
-  <img src="Screenshot from 2018-07-03 19-37-43.png" alt="Screenshot of Color Contrast Wheel Tool and color selections." style="width:100%">
+  <img src="/project/Screenshot from 2018-07-03 19-37-43.png" alt="Screenshot of Color Contrast Wheel Tool and color selections." style="width:100%">
   <figcaption>Figure 2. Color selections are shown to comply and are readable for those with specialized color insensitivity.</figcaption>
 </figure>
 
