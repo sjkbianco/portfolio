@@ -52,4 +52,4 @@ title = "Educational Technology Philosophy"
 +++
 
 > **<span style="color: #fff;">Inclusive, good-quality education is a foundation for dynamic and equitable societies.</span>**
-> <p style="text-align: right;"><em>&mdash; Desmond Tutu</em></p>
+> <p style="text-align: right; color: #fff;"><em>&mdash; Desmond Tutu</em></p>
