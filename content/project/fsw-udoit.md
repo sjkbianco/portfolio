@@ -31,4 +31,4 @@ url_video: ""
 #   slides: example
 ---
 
-<div class="embed-responsive embed-responsive-16by9 mb-3"><iframe src="https://cdnapisec.kaltura.com/p/2274241/sp/227424100/embedIframeJs/uiconf_id/44192342/partner_id/2274241?iframeembed=true&entry_id=1_wnqm2fy1" class="embed-responsive-item" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" title="Kaltura Video"></iframe></div> 
+<div class="embed-responsive embed-responsive-16by9 mb-3"><iframe src="https://cdnapisec.kaltura.com/p/2274241/sp/227424100/embedIframeJs/uiconf_id/39062931/partner_id/2274241?iframeembed=true&playerId=kaltura_player&entry_id=1_wnqm2fy1" class="embed-responsive-item" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" title="Kaltura Video"></iframe></div> 
