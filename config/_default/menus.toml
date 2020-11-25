@@ -19,9 +19,14 @@
   weight = 30
 
 [[main]]
+  name = "Favorite Apps"
+  url = "#apps"
+  weight = 40
+
+[[main]]
   name = "Projects"
   url = "#projects"
-  weight = 40
+  weight = 50
 
 # [[main]]
 #  name = "Publications"
@@ -31,7 +36,7 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 650
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
