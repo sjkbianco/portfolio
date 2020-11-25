@@ -6,8 +6,8 @@ tags:
 date: "2020-11-25T00:00:00Z"
 
 reading_time: true  # Show estimated reading time?
-share: ture  # Show social sharing links?
-profile: ture  # Show author profile?
+share: true  # Show social sharing links?
+profile: true  # Show author profile?
 comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
