@@ -11,7 +11,7 @@ profile: ture  # Show author profile?
 comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Photo by Microsoft"
+  caption: "Photo by [Microsoft](https://www.onenote.com/download/?MajorVer=14)"
   image: "https://site-cdn.onenote.net/161351840456_Images/Upgrade.png"
 ---
 
