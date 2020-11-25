@@ -37,7 +37,11 @@ subtitle = ""
    [[content.filter_button]]
      name = "All"
      tag = "*"
-  
+     
+   [[content.filter_button]]
+     name = "Favorite Apps"
+     tag = "App"
+ 
    [[content.filter_button]]
      name = "Reflections"
      tag = "Reflection"
