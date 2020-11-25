@@ -1,6 +1,8 @@
 ---
 title: Future of Technology in Education
 summary: Looking into the future of education and technology is a challenging, yet presents opportunities.
+tags:
+- Reflection
 date: "2020-11-25T00:00:00Z"
 
 reading_time: true  # Show estimated reading time?
