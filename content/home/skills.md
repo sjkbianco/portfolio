@@ -18,25 +18,25 @@ subtitle = ""
   icon = "sitemap"
   icon_pack = "fas"
   name = "Organizational Skills"
-  description = "90%"
+ # description = "90%"
   
 [[feature]]
   icon = "book"
   icon_pack = "fas"
   name = "Research"
-  description = "100%"  
+#  description = "100%"  
   
 [[feature]]
   icon = "users"
   icon_pack = "fas"
   name = "Training"
-  description = "80%"
+#  description = "80%"
 
 [[feature]]
   icon = "universal-access"
   icon_pack = "fas"
   name = "Accessibility"
-  description = "95%"
+#  description = "95%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
