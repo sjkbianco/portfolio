@@ -9,8 +9,8 @@ profile: ture  # Show author profile?
 comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Photo by Maxim Hopman on Unsplash"
-  image: "reflection-1.jpg"
+  caption: "Photo by Microsoft"
+  image: "https://site-cdn.onenote.net/161351840456_Images/Upgrade.png"
 ---
 
 In January 2007, I began full-time employment with Florida SouthWestern State College Libraries, then the Edison College Library. My first project was to coordinate the move activities for the impending renovation of the facilities to a temporary location for 1.5 years. In 2009, after coordinating two moves the Library resides in the newly rennovated permanent location again.
