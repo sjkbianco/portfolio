@@ -1,8 +1,8 @@
 ---
 title: Microsoft OneNote
-summary: Looking into the future of education and technology is a challenging, yet presents opportunities.
+summary: Looking into the future of education and technology is challenging, yet presents opportunities.
 date: "2020-11-25T00:00:00Z"
-category: "apps"
+categories: "apps"
 
 reading_time: true  # Show estimated reading time?
 share: ture  # Show social sharing links?
