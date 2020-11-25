@@ -11,7 +11,7 @@ profile: ture  # Show author profile?
 comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Photo by Marvin Meyer on Unsplash"
+  caption: "Photo by [Marvin Meyer](https://unsplash.com/@marvelous?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/learning?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
   image: "reflection-2.jpg"
 ---
 
