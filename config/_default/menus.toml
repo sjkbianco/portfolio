@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "Favoriate Apps"
+  name = "Favorite Apps"
   url = "#posts"
   weight = 30
 
