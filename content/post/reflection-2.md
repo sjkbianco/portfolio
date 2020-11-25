@@ -1,6 +1,8 @@
 ---
 title: Importance of Learning Environments
 summary: While there is no "one-size-fits-all" format to education, different learning envrionments have best practices.
+tags:
+- Reflection
 date: "2020-11-25T00:00:00Z"
 
 reading_time: true  # Show estimated reading time?
