@@ -9,7 +9,7 @@ profile: ture  # Show author profile?
 comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "<span>Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/future-education?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>"
+  caption: "Photo by Maxim Hopman on Unsplash"
   image: "reflection-1.jpg"
 ---
 
