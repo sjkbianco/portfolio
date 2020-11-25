@@ -12,7 +12,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "post"
+  page_type = "apps"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -26,7 +26,7 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = "apps"
+    category = ""
     publication_type = ""
     author = ""
     exclude_featured = false
