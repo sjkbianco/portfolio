@@ -1,5 +1,5 @@
 ---
-title: Reflections
+title: Posts
 
 # View.
 #   1 = List
