@@ -1,6 +1,6 @@
 ---
-title: Importance of Learning Environments
-summary: While there is no "one-size-fits-all" format to education, different learning envrionments have best practices.
+title: Implementation Guidelines
+summary: Implementation is an essential peice of the puzzle for engaging learnering experiences, check out these guidelines.
 tags:
 - Suggestion
 date: "2020-11-25T00:00:00Z"
