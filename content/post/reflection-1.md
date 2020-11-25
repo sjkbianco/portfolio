@@ -1,16 +1,16 @@
 ---
-title: An example title
-summary: Here we describe how to add a page to your site.
-date: "2018-06-28T00:00:00Z"
+title: Future of Technology in Education
+summary: Looking into the future of education and technology is a challenging, yet presents opportunities.
+date: "2020-11-25T00:00:00Z"
 
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
+reading_time: true  # Show estimated reading time?
+share: ture  # Show social sharing links?
+profile: ture  # Show author profile?
 comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "<span>Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/future-education?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>"
+  image: "reflection-1.jpg"
 ---
 
 In January 2007, I began full-time employment with Florida SouthWestern State College Libraries, then the Edison College Library. My first project was to coordinate the move activities for the impending renovation of the facilities to a temporary location for 1.5 years. In 2009, after coordinating two moves the Library resides in the newly rennovated permanent location again.
