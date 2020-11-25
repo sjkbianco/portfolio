@@ -15,40 +15,21 @@ subtitle = ""
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  # count = 5
+   count = 5
   
   # Choose how many pages you would like to offset by
-  # offset = 0
+   offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  # order = "desc"
+   order = "desc"
 
   # Filter posts by a taxonomy term.
-  # [content.filters]
-  #  tag = ""
-  #  category = ""
-  #  publication_type = ""
-  #  author = ""
-  #  exclude_featured = false
-
-  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
-  
-   [[content.filter_button]]
-     name = "All"
-     tag = "*"
-     
-   [[content.filter_button]]
-     name = "Favorite Apps"
-     tag = "Apps"
- 
-   [[content.filter_button]]
-     name = "Reflections"
-     tag = "Reflection"
-  
-   [[content.filter_button]]
-     name = "Suggestions"
-     tag = "Suggestion"
+   [content.filters]
+    tag = "Apps"
+    category = ""
+    publication_type = ""
+    author = ""
+    exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
