@@ -33,6 +33,16 @@ When selecting online content or outside tools, it is important to consider ever
   * Allows for submission in a variety of ways?
   * Can the time limit be extended for activities, assignments, and assessments within the outside product?
 
-If you are uncertain if the product, textbook, LTI, or platform provides for the following questions, seek an accessibility statement, a Voluntary Product Accessibility Template (VPAT), and contact their support ahead of adoption. Not every product is fully accessible, so knowing what barriers the new tool may present provides the opportunity to create alternative assignments and assessments.
+If you are uncertain if the product, textbook, LTI, or platform meets the following questions, seek an accessibility statement, a Voluntary Product Accessibility Template (VPAT), and contact their support ahead of adoption. Not every product is fully accessible, so knowing what barriers the new tool may present provides the opportunity to create alternative assignments and assessments.
 
-Be sure to provide links to the product's accessibility statement, support information, and privacy policy for the tools you provide. Be careful using products where students need to create a free account; their information could be sold for marketing purpose
+Test out the product for basic accessibility with the following considerations and checks:
+
+  * Text has acronyms spelled out initially and proper sentence case.
+  * Symbols have text alternative or accepted standard language.
+  * Images have descriptive figure captions or are described in context. [The WAVE Accessibility browser extension](https://wave.webaim.org/extension/) can help show alternative text for images.
+  * The Tab, Space-bar, Enter, and Arrow Keys can be used to navigate.
+  * The built-in browser zoom, assistive programs, or on-page options.
+  * Auto-play is not enabled by default for video and audio files.
+  * Tims are adjustable for individuals, or the platform provides a tool to duplicate units and modify time-limits easily.
+
+Be sure to provide links to the product's accessibility statement, support information, and privacy policy for the tools you provide. Be careful using products where students need to create a free account; their information could be sold for marketing purposes.
