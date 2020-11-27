@@ -42,7 +42,7 @@ The debate between Richard E. Clark and Robert B. Kozma centered around instruct
 
 Taking a side on this debate, I agree with both authors but lean more to the question Kozma (1994) poses of "In what ways can we use the capabilities of media to influence learning for particular students, tasks, and situations?" I feel we can adequately align instructional media within learning experiences if they are at the audience's level and provide meaningful reinforcement of tasks, presentations, and situations. I feel this does relate to Clark's (1994) assertion that media "have important influences on the cost or speed of learning but only the use of adequate instructional methods will influence learning." Media use needs implementation with intention and purpose, and not added because it is flashy or new. As instructional designers, there is always the search for the right presentation method for content and maintaining learner engagement, motivation, and influence on their learning. Plain text content or plain HTML pages can be useful but not as motivating as documents with images and rich text. I have found videos are engaging and allow quick and impactful messages or materials that address the most critical or exciting aspects of an article. Listening to the presidential or vice-presidential debate provides more information than just reading a text transcript. I feel depending on the content, meaningful alignment to media resources can exist.
 
-**References**
+## References
 
 American Institutes for Research. (n.d.). [Using virtual manipulatives to teach math](https://powerupwhatworks.org/technology/using-virtual-manipulatives-teach-math).
 
