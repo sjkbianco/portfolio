@@ -35,6 +35,6 @@ All new faculty and staff need to be made aware of the technology, have on-deman
 
 ## References
 
-Poole, B. (2011, November 14). [Ten Pillars of Successful Technology Implementation](https://www.educationworld.com/a_tech/columnists/poole/poole011.shtml). **Education World**.
+Poole, B. (2011, November 14). [Ten Pillars of Successful Technology Implementation](https://www.educationworld.com/a_tech/columnists/poole/poole011.shtml). *Education World*.
 
 Wong, W. (2011, November 1). [5 Best Practices for Classroom Technology Implementation](https://edtechmagazine.com/k12/article/2011/11/5-best-practices-classroom-technology-implementation). *EdTech Magazine*.
