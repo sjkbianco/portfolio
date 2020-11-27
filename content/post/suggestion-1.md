@@ -3,7 +3,7 @@ title: Implementation Guidelines
 summary: Implementation is an essential peice of the puzzle for engaging learnering experiences, check out these guidelines.
 tags:
 - Suggestion
-date: "2020-11-25T00:00:00Z"
+date: "2020-11-27T00:00:00Z"
 
 reading_time: true  # Show estimated reading time?
 share: true  # Show social sharing links?
