@@ -29,10 +29,8 @@ header:
   * [OneNote Web Clipper for Chrome](https://chrome.google.com/webstore/detail/onenote-web-clipper/gojbdfnpnhogfdgjbigejoaolejmgdhk)
   * [OneNote Web Clipper for Firefox](https://addons.mozilla.org/en-US/firefox/addon/onenote-clipper/)
   * [OneNote Web Clipper for Edge](https://microsoftedge.microsoft.com/addons/detail/onenote-web-clipper/oogbnpmeihfgnccdnmmlgicknopghhma?source=sfw)
-  * OneNote Bookmarklet for Mobile Browsers and Safari
-  > javascript:(function(){var%20jsCode=document.createElement('script');jsCode.setAttribute('src','https://www.onenote.com/Clipper/Root?ClipperId=ON-95a88c52-50d6-4c35-b134-2bdd4f682242&amp;ClipperType;=Bookmarklet&amp;ClipperVersion;=2.0.2');jsCode.setAttribute('id','oneNoteCaptureRootScript');jsCode.setAttribute('type','text/javascript');document.body.appendChild(jsCode);})()
 
-<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/SGRoQBUNZCM?ecver=1&amp;cc_load_policy=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;" class="embed-responsive-item" allowtransparency="true" frameborder="0"></iframe>
+<div class="embed-responsive embed-responsive-16by9"><iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/SGRoQBUNZCM?ecver=1&amp;cc_load_policy=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;" class="embed-responsive-item" allowtransparency="true" frameborder="0"></iframe></div>
 
 ## Additional Links
   * [Microsoft Learning Tools (Microsoft)](https://www.onenote.com/learningtools)
