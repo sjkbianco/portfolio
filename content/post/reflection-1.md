@@ -15,7 +15,7 @@ header:
   image: "reflection-1.jpg"
 ---
 
-> ooking into the future of education and technology is a challenging, yet presents opportunities.
+> Looking into the future of education and technology is a challenging, yet presents opportunities.
 
 The two recent technology innovations that exist or have potential impacts on learning and instruction are adaptive learning platforms and XR or Cross Reality. These technologies can have successful implementations within the instructional design process with the applied use of learning design or learning experience design (LXD). These two selections were explicitly made in response to their potential future prevalence within the educational environment, as described within the *2020 EDUCAUSE Horizon Report: Teaching and Learning Edition* (EDUCAUSE, 2020). The report and recent prevalence within the literature highlight that these technologies are gaining popularity due to the lower cost for training and teaching after the initial cost.
 
