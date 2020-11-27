@@ -29,7 +29,7 @@ header:
 
 ## Sway Pros
 
-Sway presentations easily embed within LMS pages. Users can easily create a sharable link for the Sway for viewing, collaboration, and embedding. The design of Sway helps reduce text-heavy slides of information, making the focus more on the lecture content. Sway is effortless to use and rapidly create a visually appealing screen-responsive presentation. Creative Commons image search is embedded to add images efficiently as a title background or within the content. Users can also upload a Word Document, PDF, or PowerPoint to create a Sway skeleton of the content automatically. Users can type a topic to begin a new Sway. Sway will grab relevant information from Wikipedia as a starting point for a presentation.
+Sway presentations easily embed within LMS pages. Users can easily create a sharable link for the Sway for viewing, collaboration, and embedding. The design of Sway helps reduce text-heavy slides of information, making the focus more on the lecture content. Sway is effortless to use and rapidly create a visually appealing screen-responsive presentation. Creative Commons image search is embedded to add images efficiently as a title background or within the content. Users can also upload a Word Document, PDF, or PowerPoint to create a Sway skeleton of the content automatically. Users can also type a topic to begin a new Sway. Sway will grab relevant information from Wikipedia as a starting point for a presentation.
 
 ## Sway Cons
 
