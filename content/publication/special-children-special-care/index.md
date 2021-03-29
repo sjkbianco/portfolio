@@ -48,7 +48,6 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: "Front Cover of March 2021 Edition"
-  alt: Front Cover of March 2021 Edition of Language Magazine
   focal_point: ""
   preview_only: false
 
