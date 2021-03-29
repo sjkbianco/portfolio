@@ -1,7 +1,7 @@
 ---
 title: "Special Children, Special Care: Charles Xiaoxue Wang, Doug Carothers, and Steven Bianco offer tips for K-12 teachers during and beyond the pandemic"
 authors:
-- admin
+- **admin**
 - Charles Xiaoxue Wang
 - Doug Carothers
 date: "2021-03-16T00:00:00Z"
