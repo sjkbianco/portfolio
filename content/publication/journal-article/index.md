@@ -33,8 +33,8 @@ tags:
 featured: false
 
 # links:
-name: "Access Article Online"
-url: "https://www.languagemagazine.com/2021/03/16/special-children-special-care/"
+name: 'Access Article Online'
+url: 'https://www.languagemagazine.com/2021/03/16/special-children-special-care/'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
