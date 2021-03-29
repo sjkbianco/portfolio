@@ -26,12 +26,15 @@ abstract: With COVID-19, many schools are utilizing online instruction. At this 
 summary: 
 
 tags:
-- Source Themes
+- Accessibility
+- Special Education
+- COVID-19
+- Online Learning
 featured: false
 
 # links:
-# - name: "Access Article Online"
-# url: "https://www.languagemagazine.com/2021/03/16/special-children-special-care/"
+name: "Access Article Online"
+url: "https://www.languagemagazine.com/2021/03/16/special-children-special-care/"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
