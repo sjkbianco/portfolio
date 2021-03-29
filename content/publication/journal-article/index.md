@@ -33,15 +33,15 @@ tags:
 featured: false
 
 # links:
-name: 'Access Article Online'
-url: 'https://www.languagemagazine.com/2021/03/16/special-children-special-care/'
+# - name: ""
+# url: ""
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://www.languagemagazine.com/2021/03/16/special-children-special-care/'
 url_video: ''
 
 # Featured image
