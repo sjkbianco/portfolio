@@ -4,9 +4,6 @@ authors:
 - admin
 - Charles Xiaoxue Wang
 - Doug Carothers
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2021-03-16T00:00:00Z"
 doi: ""
 
