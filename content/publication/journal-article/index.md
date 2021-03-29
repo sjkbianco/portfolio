@@ -20,7 +20,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Language Magazine: Improving Literacy & Communication, 20*(7)"
+publication: "*Language Magazine: Improving Literacy and Communication, 20*(7)"
 publication_short: "Language Magazine"
 
 abstract: With COVID-19, many schools are utilizing online instruction. At this time, we must not forget our children with special needs. Children with disabilities are entitled to a free appropriate public education in the least restrictive environment. For them to successfully learn online requires multifaceted measures using all available tools and approaches. This is best achieved when schools, teachers, and parents work together.
@@ -33,8 +33,8 @@ tags:
 featured: false
 
 # links:
-- name: "Access Article Online"
-url: "https://www.languagemagazine.com/2021/03/16/special-children-special-care/"
+# - name: "Access Article Online"
+# url: "https://www.languagemagazine.com/2021/03/16/special-children-special-care/"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
