@@ -54,6 +54,3 @@ projects:
 math: false
 ---
 
-# {{% alert note %}}
-# Click on the **Slides** button above to view the built-in slides feature.
-# {{% /alert %}}
