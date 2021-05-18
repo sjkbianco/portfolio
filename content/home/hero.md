@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Educational Technology Philosophy"
+title = "Instructional Technology Portfolio"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = ""
@@ -51,7 +51,7 @@ title = "Educational Technology Philosophy"
 #  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-> **<span style="color: #fff;">Inclusive, good-quality education is a foundation for dynamic and equitable societies.</span>**
-> <p style="text-align: right; color: #fff;"><em>&mdash; <a href="https://www.brainyquote.com/quotes/desmond_tutu_454160" target="_blank">Desmond Tutu</a></em></p>
+**<span style="color: #fff;">Inclusive, good-quality education is a foundation for dynamic and equitable societies.</span>**
+<p style="text-align: right; color: #fff;"><em>&mdash; <a href="https://www.brainyquote.com/quotes/desmond_tutu_454160" target="_blank">Desmond Tutu</a></em></p>
 
-<small><span style="position:absolute; bottom:0; right:0; margin-right: 25px; margin-bottom: 15px;">Photo by <a href="https://unsplash.com/@joannakosinska?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joanna Kosinska</a> on <a href="https://unsplash.com/s/photos/education?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span></small>
+<small><span style="position:absolute; bottom:0; right:0; margin-right: 25px; margin-bottom: 15px;">Photo by <a href="https://unsplash.com/@sapegin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Artem Sapegin</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></span></small>
