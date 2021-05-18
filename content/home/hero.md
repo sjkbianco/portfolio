@@ -51,7 +51,6 @@ title = "Instructional Technology Portfolio"
 #  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-**<span>Inclusive, good-quality education is a foundation for dynamic and equitable societies.</span>**
-<p style="text-align: right;"><em>&mdash; <a href="https://www.brainyquote.com/quotes/desmond_tutu_454160" target="_blank">Desmond Tutu</a></em></p>
+Welcome to Steven Bianco's Instructional Technology Portfolio! This portfolio covers instructional and educational technologies within Higher Education online course offerings. While many of the tools are available for use within the in-person classroom to enhance learning, the focus is to provide collaboration in the online learning environment.
 
 <small><span style="position:absolute; bottom:0; right:0; margin-right: 25px; margin-bottom: 15px;">Photo by <a href="https://unsplash.com/@sapegin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Artem Sapegin</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></span></small>
