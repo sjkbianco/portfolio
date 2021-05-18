@@ -31,7 +31,7 @@ title = "Instructional Technology Portfolio"
    image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
@@ -51,7 +51,7 @@ title = "Instructional Technology Portfolio"
 #  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-**<span style="color: #fff;">Inclusive, good-quality education is a foundation for dynamic and equitable societies.</span>**
-<p style="text-align: right; color: #fff;"><em>&mdash; <a href="https://www.brainyquote.com/quotes/desmond_tutu_454160" target="_blank">Desmond Tutu</a></em></p>
+**<span>Inclusive, good-quality education is a foundation for dynamic and equitable societies.</span>**
+<p style="text-align: right;"><em>&mdash; <a href="https://www.brainyquote.com/quotes/desmond_tutu_454160" target="_blank">Desmond Tutu</a></em></p>
 
 <small><span style="position:absolute; bottom:0; right:0; margin-right: 25px; margin-bottom: 15px;">Photo by <a href="https://unsplash.com/@sapegin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Artem Sapegin</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></span></small>
