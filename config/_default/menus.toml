@@ -8,55 +8,55 @@
   url = "#hero"
   weight = 10
 
-[[main]]
-  name = "Bio"
-  url = "#about"
-  weight = 20
+# [[main]]
+#  name = "Bio"
+#  url = "#about"
+#  weight = 20
 
 [[main]]
   name = "Ethical Practice"
   url = "#posts"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Integration"
   url = "#reflection"
-  weight = 40
+  weight = 30
 
 [[main]]
   name = "Evaluation"
   url = "#suggestion"
-  weight = 50
+  weight = 40
 
 [[main]]
   name = "Diverse Learners"
   url = "#suggestion"
-  weight = 60
+  weight = 50
 
 [[main]]
   name = "Professional Learning"
   url = "#suggestion"
-  weight = 70
+  weight = 60
 
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 80
+# [[main]]
+#  name = "Talks"
+#  url = "#talks"
+#  weight = 80
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 90
+# [[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 90
 
-[[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 100
+# [[main]]
+#  name = "Publications"
+#  url = "#publications"
+#  weight = 100
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 110
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
