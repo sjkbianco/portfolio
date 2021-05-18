@@ -17,7 +17,7 @@ header:
 
 [Microsoft Sway](https://support.microsoft.com/en-us/office/getting-started-with-sway-2076c468-63f4-4a89-ae5f-424796714a8a) is a cloud-based (within the browser) application for creating visually appealing reports, presentations, newsletters, and stories that are responsive to various screen sizes. Sway has a controlled set of elements but is also able to have interactive forms included. Sections within a Sway are available in the storyline. While it does not accommodate branched situations, it is very well-suited to create accessible presentations for online courses. Please checkout the [Sway Presentation Discussion Boards](https://sway.office.com/gmoUdWQdbcH2nNmF?ref=Link) made for an assignment in Universal Design for Learning.
 
-![Example Sway screenshot.](/post/sway-example.png)
+![Example Sway screenshot.](/post/sway/sway-example.png)
 
 ## Sway Links
 
