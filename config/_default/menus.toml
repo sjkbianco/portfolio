@@ -20,22 +20,22 @@
 
 [[main]]
   name = "Integration"
-  url = "#reflection"
+  url = "/post/integration"
   weight = 30
 
 [[main]]
   name = "Evaluation"
-  url = "#suggestion"
+  url = "/post/evaluation"
   weight = 40
 
 [[main]]
   name = "Diverse Learners"
-  url = "#suggestion"
+  url = "/post/diverse-learners"
   weight = 50
 
 [[main]]
   name = "Professional Learning"
-  url = "#suggestion"
+  url = "/post/professional-learning"
   weight = 60
 
 # [[main]]
