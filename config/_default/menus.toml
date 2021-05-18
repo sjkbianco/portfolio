@@ -4,49 +4,59 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Quote"
+  name = "Home"
   url = "#hero"
   weight = 10
 
 [[main]]
-  name = "Home"
+  name = "Bio"
   url = "#about"
   weight = 20
 
 [[main]]
-  name = "Favorite Apps"
+  name = "Ethical Practice"
   url = "#posts"
   weight = 30
 
 [[main]]
-  name = "Reflections"
+  name = "Integration"
   url = "#reflection"
   weight = 40
 
 [[main]]
-  name = "Suggestions"
+  name = "Evaluation"
   url = "#suggestion"
   weight = 50
 
 [[main]]
+  name = "Diverse Learners"
+  url = "#suggestion"
+  weight = 60
+
+[[main]]
+  name = "Professional Learning"
+  url = "#suggestion"
+  weight = 70
+
+[[main]]
   name = "Talks"
   url = "#talks"
-  weight = 60
+  weight = 80
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 70
+  weight = 90
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 80
+  weight = 100
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 90
+  weight = 110
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
