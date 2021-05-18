@@ -12,7 +12,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: "Photo by [edtech4beginners](https://edtech4beginners.com/2016/05/10/dont-just-put-amazing-work-on-the-classroom-wall-share-it-online/)"
-  image: "https://eus-www.sway-cdn.com/s/wood_burning/images/HRsms6prISmANTLnpnwA?quality=960&allowAnimation=true&crop"
+  image: "https://sjkbianco.netlify.app/post/sway/HRsms6prISmANTLnpnwA.png"
 ---
 
 [Microsoft Sway](https://support.microsoft.com/en-us/office/getting-started-with-sway-2076c468-63f4-4a89-ae5f-424796714a8a) is a cloud-based (within the browser) application for creating visually appealing reports, presentations, newsletters, and stories that are responsive to various screen sizes. Sway has a controlled set of elements but is also able to have interactive forms included. Sections within a Sway are available in the storyline. While it does not accommodate branched situations, it is very well-suited to create accessible presentations for online courses. Please checkout the [Sway Presentation Discussion Boards](https://sway.office.com/gmoUdWQdbcH2nNmF?ref=Link) made for an assignment in Universal Design for Learning.
