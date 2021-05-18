@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Ethical Practice"
+title = "Posts"
 subtitle = ""
 
 [content]
@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
    [content.filters]
-    tag = "Apps"
+    tag = ""
     category = ""
     publication_type = ""
     author = ""
