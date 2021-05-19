@@ -11,7 +11,7 @@ profile: true  # Show author profile?
 comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: <span class="mr-4">Photo by [Sigmund](https://unsplash.com/@sigmund?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/braille?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)</span>
+  caption: <span class="mr-4">Photo by <a href="https://unsplash.com/@sigmund?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank">Sigmund</a> on <a href="https://unsplash.com/s/photos/braille?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank">Unsplash</a></span>
   image: "suggestion-2.jpg"
 ---
 
