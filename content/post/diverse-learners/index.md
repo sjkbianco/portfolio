@@ -18,6 +18,6 @@ header:
 ---
 
 * At least two digital tools or web-based apps are provided as examples of how the technology can be used to meet diverse learner needs.
-* A reflection of how theexample technology tools can be used for a specific learning activity with diverse learners.
+* A reflection of how the example technology tools can be used for a specific learning activity with diverse learners.
 
 
