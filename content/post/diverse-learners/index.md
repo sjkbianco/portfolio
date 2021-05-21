@@ -19,6 +19,21 @@ header:
 ---
 
 * At least two digital tools or web-based apps are provided as examples of how the technology can be used to meet diverse learner needs.
+
+Microsoft provides a variety of productivity software solutions for use within private and public industry as well as education. Many of their web-based software applications are available for free with a Microsoft account. In terms of the online learning environment, two of their applications allow for flexibility of expression and can encourage collaboration. These two programs are Microsoft Sway, a web-based presentation or newsletter creation tool and OneNote, an electronic note taking application.
+
+## Microsoft Sway
+
+Sway allows for instructors and learners to rapidly create visually appealing presentations from searching a topic, uploading an existing PDF, Word, or PowerPoint file and converts it into a mobile-friendly presentation. Users may also start blank Sway or select a template. Adding images and videos within Sway is easy, by selecting the content type to add, the application will provide a search panel limited to open licensed content to use and also pulls keywords from the text within the Sway. The colors, layouts, amount of animation, and themes are all easily customizable.
+
+Once the user finishes their Sway the are able to embed it into any online platform with the capability to support iframes, can share a direct link to select individuals or make the link public. Viewers of the presentation have the option to download the Sway as a PDF or Word Document, there is also an accessibility view that removes animations, provides higher contrast colors, underlines links, and shows alternative text for images. Responsive design is also built-in to provide an excellent viewing experience regardless of screen size or the type of device. The responsive presentation of the content allows individuals with limited technology to access the content. The individual only needs access to an internet connection and a browser.
+
+Please review the related article on Sway for additional considerations and a more in-depth review.
+
+## OneNote
+
+
+
 * A reflection of how the example technology tools can be used for a specific learning activity with diverse learners.
 
 
