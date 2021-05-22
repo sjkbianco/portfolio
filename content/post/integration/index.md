@@ -23,6 +23,8 @@ header:
 
 * Identifies at least one evidence-based technology integration model or framework and describes its use in the learning environment.
 
+[![The Technology Integration Matrix, T I M, with descriptions](/post/integration/2019LevelsCharSlideWide.jpg)](https://fcit.usf.edu/matrix/matrix/)
+
 ## Authentic Learning with Technology
 
 * Includes a description of authentic learning using technology and a hyperlink to a video (not more than two minutes long) depicting authentic learning in action. Candidate provides a rationale that explains why the video is an example of authentic learning.
