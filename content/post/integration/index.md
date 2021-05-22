@@ -1,6 +1,6 @@
 ---
 title: Integration
-summary: 
+summary: The integration of technology within an in-person or entirely online course requires strategy and alignment.
 tags:
 - Implementation
 - Authentic Learning
@@ -17,7 +17,24 @@ header:
   image: "reflection-1.jpg"
 ---
 
+> The integration of technology within an in-person or entirely online course requires strategy and alignment.
+
+## The Technology Integration Matrix
+
 * Identifies at least one evidence-based technology integration model or framework and describes its use in the learning environment.
+
+## Authentic Learning with Technology
+
 * Includes a description of authentic learning using technology and a hyperlink to a video (not more than two minutes long) depicting authentic learning in action. Candidate provides a rationale that explains why the video is an example of authentic learning.
+
+## Learner Voice and Choice
+
 * Includes a description of learner voice and choice that integrates technology, including a hyperlink to a video (not more than two minutes long) depicting learner voice and choice that integrates technology.
+
+## The Four C's of 21^st Century Learning
+
 * The four C's of 21st century learning (communication, collaboration, critical thinking, and creativity) are identified and described, including their importance when integrating technology.
+
+## References
+
+Florida Center for Instructional Technology. (n.d.). *[Introduction to the technology integration matrix](https://fcit.usf.edu/matrix/project/introduction-to-the-technology-integration-matrix/)*. University of South Florida.
