@@ -21,11 +21,17 @@ header:
 
 ## The Technology Integration Matrix
 
-* Identifies at least one evidence-based technology integration model or framework and describes its use in the learning environment.
+[![The Technology Integration Matrix with descriptions. External website opens in new tab.](/post/integration/2019LevelsCharSlideWide.jpg)](https://fcit.usf.edu/matrix/matrix/)
 
-[![The Technology Integration Matrix, T I M, with descriptions](/post/integration/2019LevelsCharSlideWide.jpg)](https://fcit.usf.edu/matrix/matrix/)
+The Technology Integration Matrix (TIM) is a framework developed by the Florida Center for Instructional Technology at the University of South Florida. The goal of the TIM is to provide a "common vocabulary for pedagogically sound technology integration for teachers, school leaders, coaches, researchers, evaluators, and professional development facilitators" (Florida Center for Instructional Technology, n.d.). Development work began on the TIM in 2003. The current version of the matrix is the third edition developed in 2019. While the focus of the TIM videos and related training content are within the K-12 education domain, the framework can work for higher education.
+
+There are five interdependent characteristics of meaningful learning environments: active, collaborative, constructive, authentic, and goal-directed. These characteristics are associated with five levels of technology integration: entry, adoption, adaptation, infusion, and transformation. Each intersection of characteristics of meaningful learning environments and levels of technology integration provides descriptors in how technology is integrated and as a evaluative benchmark. Each of the twenty-five intersections displays varied technological integration for in-person, blended, and online courses. There is no wrong or right position within the framework, as different lessons and activities require various levels of technology.
+
+Application of the TIM within the online learning environment for authentic learning would most likely best serve learners in the adaptation, infusion, or transformation levels as these require less instructor guidance and more learner-centric engagement with technology tools.
 
 ## Authentic Learning with Technology
+
+
 
 * Includes a description of authentic learning using technology and a hyperlink to a video (not more than two minutes long) depicting authentic learning in action. Candidate provides a rationale that explains why the video is an example of authentic learning.
 
