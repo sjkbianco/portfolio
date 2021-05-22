@@ -36,11 +36,11 @@ OneNote by Microsoft is a digital notebook application with features to clip web
 
 At the heart of the OneNote application is the ability to allow users to search for content within pages, sections, and notebooks. OneNote performs Optical Character Recognition (OCR) on all images and printouts within notes pages. All other text content such as audio transcriptions and inked handwriting are also found within search results. The web version of OneNote will also convert links into embedded content on the page, so it is easy to add a Microsoft Form, YouTube video, and other online interactive tools and media. Because OneNote allows for multiple input options it is an ideal tool to create media rich notes and collaborative lesson materials. Class Notebook provides instructors the ability to assign pages to learners and see realtime interaction with the content.
 
-OneNote pages can truly provide an environment for multiple means of representation and multiple means of action and expression for learners. Please review the related article on OneNote for additional considerations and a more in-depth review.
+OneNote pages can truly provide an environment for [multiple means of representation](https://udlguidelines.cast.org/representation) and [multiple means of action and expression](https://udlguidelines.cast.org/action-expression) for learners. Please review the related article on OneNote for additional considerations and a more in-depth review.
 
 ## Summary
 
 * A reflection of how the example technology tools can be used for a specific learning activity with diverse learners.
 
-
+The example tools, Sway and OneNote can provide an inclusive learning experience...
 
