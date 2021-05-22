@@ -44,3 +44,6 @@ OneNote pages can truly provide an environment for [multiple means of representa
 
 The example tools, Sway and OneNote can provide an inclusive learning experience...
 
+## References
+
+Pickett, M. (2021, May 18). *[Five things AT leaders need to know about inclusive technology systems](https://medium.com/udl-center/five-things-at-leaders-need-to-know-about-inclusive-technology-systems-4bd9bd0fed5e)*. Medium.
