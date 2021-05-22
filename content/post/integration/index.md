@@ -37,4 +37,6 @@ header:
 
 ## References
 
+Common Sense Education. (n.d.). *[Introduction to the four C's](https://www.commonsense.org/education/videos/introduction-to-the-4-cs)*.
+
 Florida Center for Instructional Technology. (n.d.). *[Introduction to the technology integration matrix](https://fcit.usf.edu/matrix/project/introduction-to-the-technology-integration-matrix/)*. University of South Florida.
