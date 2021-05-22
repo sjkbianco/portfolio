@@ -31,7 +31,7 @@ Application of the TIM within the online learning environment for authentic lear
 
 ## Authentic Learning with Technology
 
-
+<div class="embed-responsive embed-responsive-16by9"><iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/SFxUFMBGgG8?ecver=1&amp;cc_load_policy=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;" class="embed-responsive-item" allowtransparency="true" frameborder="0"></iframe></div>
 
 * Includes a description of authentic learning using technology and a hyperlink to a video (not more than two minutes long) depicting authentic learning in action. Candidate provides a rationale that explains why the video is an example of authentic learning.
 
