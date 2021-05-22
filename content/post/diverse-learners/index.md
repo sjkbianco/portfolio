@@ -1,6 +1,6 @@
 ---
 title: Diverse Learners
-summary: 
+summary: Diverse learners can utilize free tools provided by Microsoft to enhance their online learning experience through creative presentations and media rich note taking.
 tags:
 - Diversity
 - Inclusion
