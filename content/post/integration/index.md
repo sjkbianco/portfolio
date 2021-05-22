@@ -31,7 +31,7 @@ header:
 
 * Includes a description of learner voice and choice that integrates technology, including a hyperlink to a video (not more than two minutes long) depicting learner voice and choice that integrates technology.
 
-## The Four C's of 21^st Century Learning
+## The Four C's of 21^st^ Century Learning
 
 * The four C's of 21st century learning (communication, collaboration, critical thinking, and creativity) are identified and described, including their importance when integrating technology.
 
