@@ -37,6 +37,8 @@ Application of the TIM within the online learning environment for authentic lear
 
 ## Learner Voice and Choice
 
+<div class="embed-responsive embed-responsive-16by9"><iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/2n7EelMbzG0?ecver=1&amp;cc_load_policy=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;" class="embed-responsive-item" allowtransparency="true" frameborder="0"></iframe></div>
+
 * Includes a description of learner voice and choice that integrates technology, including a hyperlink to a video (not more than two minutes long) depicting learner voice and choice that integrates technology.
 
 ## The Four C's of 21<sup>st</sup> Century Learning
