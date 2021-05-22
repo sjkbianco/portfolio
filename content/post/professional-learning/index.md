@@ -1,6 +1,6 @@
 ---
 title: Professional Learning
-summary: 
+summary: With so many professional learning opportunities within the instructional technology field available, it can sometimes be a daunting task to keep track. Try some of these comprehensive opportunities to keep current.
 tags:
 - Continuing Education
 - Professional Development
@@ -17,6 +17,38 @@ header:
   image: "reflection-1.jpg"
 ---
 
+> With so many professional learning opportunities within the instructional technology field available, it can sometimes be a daunting task to keep track. Try some of these comprehensive opportunities to keep current.
+
+Professional development through your place of employment is always an ideal track to take to keep current with pedagogical practices and the potential of new technology tools adopted by the institution. However, many of these opportunities may not exist for smaller instructional design teams or for institutions with limited online course offerings. Fortunately instructional technology does not lack in free professional development opportunities and the ability to connect with other professionals within the field.
+
 * Identify and describe the importance of at least three non-workplace professional development options for building/enhancing the candidate's professional learning network in instructional technology.
+
+## Social Networks
+
+
+
+## Professional Organizations
+
+
+
+## Webinars
+
+
 * Identify at least two considerations for managing the candidate's own digital identity and why they are important.
+
+## Maintaining a Professional Online Presence
+
+1.
+2.
+
+## Feedback
+
 * Evidence that demonstrates how candidate has supported others in professional learning of a specific instructional technology, including evaluation of the training's effectiveness (i.e, candidate reflection, link to a video of candidate conducting a training, link to evidence of a training that includes participant feedback).
+
+> 
+
+>
+
+>
+
+>
