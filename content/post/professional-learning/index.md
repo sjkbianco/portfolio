@@ -13,8 +13,8 @@ profile: true  # Show author profile?
 comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Photo by [Maxim Hopman](https://unsplash.com/@nampoh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/education-future?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
-  image: "reflection-1.jpg"
+  caption: "Photo by [Leon](https://unsplash.com/@myleon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/training?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
+  image: "pd.jpg"
 ---
 
 > With so many professional learning opportunities within the instructional technology field available, it can sometimes be a daunting task to keep track. Try some of these comprehensive opportunities to keep current.
