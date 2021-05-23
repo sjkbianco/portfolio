@@ -14,8 +14,8 @@ profile: true  # Show author profile?
 comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Photo by [Maxim Hopman](https://unsplash.com/@nampoh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/education-future?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
-  image: "reflection-1.jpg"
+  caption: "Photo by [Agence Olloweb](https://unsplash.com/@olloweb?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/learning-styles?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
+  image: "diversity.jpg"
 ---
 
 > Diverse learners can utilize free tools provided by Microsoft to enhance their online learning experience through creative presentations and media rich note taking.
