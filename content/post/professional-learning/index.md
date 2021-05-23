@@ -46,10 +46,10 @@ Professional development through your place of employment is always an ideal tra
 
 * Evidence that demonstrates how candidate has supported others in professional learning of a specific instructional technology, including evaluation of the training's effectiveness (i.e, candidate reflection, link to a video of candidate conducting a training, link to evidence of a training that includes participant feedback).
 
-> 
+> The UDL presentation was the best workshop I have ever attended; I recommend it to everyone.
 
->
+> I loved the accessibility and QM workshops! They were necessary in my opinion. I could not have completed the course design process without them!
 
->
+> I enjoyed attending the Universal Design and Access Workshop. Steve did a great job presenting a complex topic and breaking it down so that anyone can understand it. He was also able to host an interactive class via zoom.
 
->
+> Wow! What a great course with Steven.  I have to admit, accessibility information overwhelms me (I felt even more anxiety in the APPQMR module that addressed accessibility), but as I began to practice making documents accessible and inspecting them for accessibility I started to see that the process of making things accessible isn't as challenging as I originally thought it would be. By no stretch of the imagination do I feel like an expert, but I feel more confident about Universal Design and Accessibility, and frankly, I feel more compassionate toward learners who are challenged in ways that many others are not. I now clearly see the difference between making accommodations and simply making a course accessible.
