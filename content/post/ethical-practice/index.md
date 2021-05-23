@@ -17,7 +17,15 @@ header:
   image: "privacy.jpg"
 ---
 
+## Digital Citizenship in Higher Education
+
 * Describes digital citizenship including its importance to the learners. Description demonstrates the candidate's investigation and understanding of digital citizenship.
+
+## Educating Learners on Digital Citizenship
+
 * Identifies at one web-based app that can be used to help teach digital citizenship that includes a candidate-defined rationale of why it appropriate.
 * A hyperlink to a pedagogically-sound digital citizenship lesson plan that includes the identified app is included.
+
+## Data Privacy
+
 * Candidate demonstrates they have examined the issue of student data privacy and formulated a means to address it.
