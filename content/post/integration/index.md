@@ -4,7 +4,7 @@ summary: The integration of technology within an in-person or entirely online co
 tags:
 - Implementation
 - Authentic Learning
-- Suggestions
+- Suggestion
 date: "2021-05-19T00:00:00Z"
 
 reading_time: true  # Show estimated reading time?
