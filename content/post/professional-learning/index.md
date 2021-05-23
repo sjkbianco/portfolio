@@ -21,8 +21,6 @@ header:
 
 Professional development through your workplace is always an ideal track to take to keep current with pedagogical practices and the potential of new technology tools adopted by the institution. However, many of these opportunities may not exist for smaller instructional design teams or institutions with limited online course offerings. Fortunately, instructional technology does not lack free professional development opportunities and the ability to connect with other professionals.
 
-* Identify and describe the importance of at least three non-workplace professional development options for building/enhancing the candidate's professional learning network in instructional technology.
-
 ## Social Networks
 
 
@@ -34,8 +32,6 @@ Professional development through your workplace is always an ideal track to take
 ## Webinars
 
 
-
-* Identify at least two considerations for managing the candidate's own digital identity and why they are essential.
 
 ## Maintaining a Professional Online Presence
 
