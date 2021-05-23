@@ -13,8 +13,8 @@ profile: true  # Show author profile?
 comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Photo by [Maxim Hopman](https://unsplash.com/@nampoh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/education-future?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
-  image: "reflection-1.jpg"
+  caption: "Photo by [Chris Liverani](https://unsplash.com/@chrisliverani?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/evaluation?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
+  image: "evaluation.jpg"
 ---
 
 * A description of how a specific technology impacts a lesson or learning activity.
