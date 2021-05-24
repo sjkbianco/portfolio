@@ -61,6 +61,7 @@ The four C's of 21<sup>st</sup> century learning are communication, collaboratio
 Information, media, and technology skills are another component of the four C's. Learners must utilize critical thinking and problem solving to access and evaluate information and use and manage that information effectively. They must also effectively analyze and create media while applying their technical skills. Because technology changes rapidly, learners must be able to adapt to change and be flexible. It is vital that students "learn to learn" to stay current with technology innovation and effectively operate it.
 
 It is best to utilize collaboration technologies that have remained current over the last three to five years. Because collaboration is an essential component of the four C's, providing a familiar platform with the necessary tools will lead to better performance in receiving peer feedback and connecting with others.
+
 ## References
 
 Battelle for Kids. (2019). *[Framework for 21st century learning](http://static.battelleforkids.org/documents/p21/P21_Framework_Brief.pdf)*. P21 Partnership for 21st Century Learning.
