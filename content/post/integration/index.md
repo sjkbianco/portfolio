@@ -31,7 +31,7 @@ Application of the TIM within the online learning environment for authentic lear
 
 ## Authentic Learning with Technology
 
-<div class="embed-responsive embed-responsive-16by9"><iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/SFxUFMBGgG8?ecver=1&amp;cc_load_policy=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;" class="embed-responsive-item" allowtransparency="true" frameborder="0"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9 mb-3 mt-3"><iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/SFxUFMBGgG8?ecver=1&amp;cc_load_policy=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;" class="embed-responsive-item" allowtransparency="true" frameborder="0"></iframe></div>
 
 As demonstrated in The HELIX Classroom video (Harvard Extension School, 2020), many learners can join the in-person classroom experience using online conferencing tools with the proper audio/video equipment. The online student experience is streamlined, seeing the presentation and a camera angle showing in-person learners responding to questions and the instructor. The instructor and in-classroom learners have monitors to view the online students. The instructor calls the learners by name and does not recognize or point out the student is online or in-person. The instructor asks follow-up questions to the entire class to improve or add to the comments of the original learner's response. The authentic aspect of this environment is the real-time and thoughtful collaboration of the learners.
 
@@ -39,7 +39,7 @@ Applying the video to the Technology Integration Matrix, the definition of authe
 
 ## Learner Voice and Choice
 
-<div class="embed-responsive embed-responsive-16by9"><iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/2n7EelMbzG0?ecver=1&amp;cc_load_policy=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;" class="embed-responsive-item" allowtransparency="true" frameborder="0"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9 mb-3 mt-3"><iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/2n7EelMbzG0?ecver=1&amp;cc_load_policy=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;" class="embed-responsive-item" allowtransparency="true" frameborder="0"></iframe></div>
 
 The methodology of the genius hour (Spencer, 2017) allows for student voice and choice in their "20% time" in class. During this time, the students can learn what they want or choose their topic to research. The students have the choice to work alone or in groups. While working on their research, they will create their resources, activities, self-assessment, and deadlines. The final deliverable is an artifact or product the learner(s) will share with the world. Genius hour promotes self-directed learning, creativity, critical thinking, and ownership of their educational experience.
 
