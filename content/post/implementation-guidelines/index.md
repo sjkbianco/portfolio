@@ -1,6 +1,6 @@
 ---
 title: Implementation Guidelines
-summary: Implementation is an essential peice of the puzzle for engaging learnering experiences, check out these guidelines.
+summary: Implementation is an essential piece of the puzzle for engaging learning experiences. Check out these guidelines.
 tags:
 - Suggestion
 date: "2020-11-27T00:00:00Z"
@@ -15,7 +15,7 @@ header:
   image: "suggestion-1.jpg"
 ---
 
-> Implementation is an essential peice of the puzzle for engaging learnering experiences, check out these guidelines.
+> Implementation is an essential piece of the puzzle for engaging learning experiences. Check out these guidelines.
 
 ## Buy-In
 
