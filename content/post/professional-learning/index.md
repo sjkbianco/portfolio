@@ -23,15 +23,51 @@ Professional development through your workplace is always an ideal track to keep
 
 ## Social Networks
 
+### Facebook
 
+* [Instructional Design Discussion](https://www.facebook.com/groups/InstructionalDesignDiscussion/)
+* [Instructional Design Newbie](https://www.facebook.com/groups/idnewb/)
+* [Instructional Designer](https://www.facebook.com/groups/idesigner/)
+* [Instructional Designers in Education](https://www.facebook.com/groups/1526889350715555/)
+
+### LinkedIn
+
+* [Center for Instructional Design and Training](https://www.linkedin.com/groups/3964831/)
+* [Freelance in Instructional Design and E-Learning Industry](https://www.linkedin.com/groups/3638251/)
+* [Instructional Design Central (IDC)](https://www.linkedin.com/groups/2672881/)
+* [The Instructional Design Forum](https://www.linkedin.com/groups/1988597/)
+* [Instructional Systems Design Professional](https://www.linkedin.com/groups/156321/)
+
+### Twitter
+
+* [Articulate](https://twitter.com/Articulate)
+* [Association for Educational Communications & Technology (AECT)](https://twitter.com/AECT)
+* [eLearning Brothers](https://twitter.com/eLearningBros)
+* [eLearning Industry](https://twitter.com/elearnindustry)
+* [eLearning Network](https://twitter.com/elearningnetwk)
+* [Instructional Technology Council (ITC)](https://twitter.com/ITCeLearning)
+* [National Center on Universal Design for Learning](https://twitter.com/udl_center)
+* [The QM Instructional Designers Association](https://twitter.com/theqmida)
+* [WICHE Cooperative for Educational Technologies (WCET)](https://twitter.com/wcet_info)
 
 ## Professional Organizations
 
-
+* [Association for the Advancement of Computing in Education (AACE)](https://www.aace.org/)
+* [Association for Educational Communication and Technology (AECT)](https://www.aect.org/)
+* [EDUCAUSE](https://www.educause.edu/)
+* [Instructional Technology Council (ITC)](https://www.itcnetwork.org/)
+* [International Council for Open and Distance Learning (ICDE)](https://www.icde.org/)
+* [International Society for Technology in Education (ISTE)](https://www.iste.org/)
+* [Online Learning Consortium (OLC)](https://onlinelearningconsortium.org/)
+* [Quality Matters (QM)](https://www.qualitymatters.org/)
+* [WICHE Cooperative for Educational Technologies (WCET)](https://wcet.wiche.edu/)
 
 ## Webinars
 
-
+* [EDUCAUSE Event Finder](https://events.educause.edu/event-finder)
+* [eLearning Industry Webinars]9https://elearningindustry.com/webinars)
+* [Online Learning Consortium (OLC) Webinars](https://onlinelearningconsortium.org/learn/webinars/)
+* [Quality Matters (QM) Conference Session Recordings](https://www.qualitymatters.org/events/webcasting-recordings)
 
 ## Maintaining a Professional Online Presence
 
