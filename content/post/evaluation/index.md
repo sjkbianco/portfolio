@@ -21,8 +21,6 @@ header:
 
 ## Technology Impacts
 
-## Technology Impacts
-
 There are multiple integration frameworks available to review media, technology, and other educational materials within the online environment. Each of these frameworks provides a rubric or analytical lens to view specific aspects of implementation or integration. Concerning evaluation, it is a process to perform before, during, and after. It is also helpful to involve learners in the process, if at all possible. Some directions on the evaluation of technology within the online learning environment are available through the [Rubric for eLearning Tool Evaluation](https://teaching.uwo.ca/pdf/elearning/Rubric-for-eLearning-Tool-Evaluation.pdf) by Anstey & Watson (2018) and [The Technology Integration Matrix](https://fcit.usf.edu/matrix) by the Florida Center for Instructional Technology at the University of South Florida.
 
 The rubric developed by Anstey & Watson (2018) examines aspects of functionality, accessibility, technical, mobile design, privacy, data protection and rights, social presence, teaching presence, and cognitive presence. While in contrast, The Technology Integration Matrix evaluates the level of engagement and implementation of the technology's use. Taking the topic of evaluation further, we should also consider [Mayer's twelve principles of multimedia (DeBell, 2019)](https://waterbearlearning.com/mayers-principles-multimedia-learning/).
@@ -37,17 +35,26 @@ Consider as many evaluation points or your preferred rubrics for assessment whil
 * Can the user view the video on full-screen?
 * The video does not provide rapid flashing
 
-The above is one set of factors to consider for one type of media, video, for implementation into a lesson page.
+The above is one set of factors to consider for one type of media, video, for implementation into a lesson page. The difference is some learners accessing the video or all learners accessing the video.
 
-* A description of how a specific technology impacts a lesson or learning activity.
-* A hyperlink to an example of the technology being used to impact a learning activity is included with a reflection of its importance to the learning objectives.
-* A reflection of how the technology can be evaluated to ensure its effectiveness.
+## Example Expanded
+
+Let's take the video example further by using YouTube. YouTube is one of the most popular video hosting services available, and users can find content on virtually any topic. The video player for YouTube is keyboard accessible. However, not all videos provide accurate captioning, and it can also be challenging to contact the content creator to request or deliver accurate captions for upload. Many educational institutions will partner with a captioning provider to ensure accurate captions and have a video player service integrated with the Learning Management System. It is possible to embed a YouTube video within a content page with accurate captions utilizing these two services. If your institution does not offer this capability, [Amara](https://amara.org/) may be a suitable option. Amara is a free platform to caption and translate video captions for YouTube videos. Each video on Amara has a unique link to provide on the content page. It may not be possible to directly embed the video within a content page with script sanitizing. However, linking out to the accurately captioned video opens access to all, and there are many community volunteers to provide translations to other languages.
+
+While there is not an example lesson here, many courses utilize video to supplement and enhance course content to provide an alternative form of access to the information. Some videos give the entire lecture for a course module. The learning objectives that apply may be recalling, listing, describing, explaining, or other Bloom's taxonomy verbs to have learners provide a measurable learning outcome from viewing the video.
+
+For an example video, we will provide the [YouTube Algorithms: How to Avoid the Rabbit Hole | Above the Noise](https://florida.pbslearningmedia.org/resource/youtube-algorithms-above-the-noise/youtube-algorithms-above-the-noise/) video with ISTE learning outcome 4.a "Students: know and use a deliberate design process for generating ideas, testing theories, creating innovative artifacts or solving authentic problems."
+
+<div class="embed-responsive embed-responsive-16by9 mb-3 mt-3"><iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/CuFKYSSZtpo?ecver=1&amp;cc_load_policy=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;" class="embed-responsive-item" allowtransparency="true" frameborder="0"></iframe></div>
+
+We can see the video player is keyboard accessible, the video does not autoplay, there are accurate captions, and users can easily make the video play in full-screen. After we have established those criteria are met. We can further review the media against the overall content of the lesson, ensure the video is embedded consistent with local design standards, and align both the video and content to the overall learning objectives for the course, module, and lesson.
 
 ## References
+
+Above The Noise. (2019, June 19). *[YouTube algorithms: How to avoid the rabbit hole](https://www.youtube.com/watch?v=CuFKYSSZtpo)* [Video]. YouTube.
 
 Anstey, L. & Watson, G. (2018, September 10). *[A rubric for evaluating e-learning tools in higher education](https://er.educause.edu/articles/2018/9/a-rubric-for-evaluating-e-learning-tools-in-higher-education)*. EDUCAUSE Review.
 
 DeBell, A. (2019, December 11). *[How to use Mayer's twenve principles of multimedia, examples included](https://waterbearlearning.com/mayers-principles-multimedia-learning/)*. Water Bear Learning.
 
 Florida Center for Instructional Technology. (n.d.). *[The technology integration matrix](https://fcit.usf.edu/matrix)*. University of South Florida.
-
