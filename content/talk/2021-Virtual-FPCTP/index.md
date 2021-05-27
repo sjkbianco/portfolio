@@ -28,7 +28,7 @@ image:
   focal_point: Right
 
 links:
-url_code: ""
+url_code: "/content/talk/2021-Virtual-FPCTP/Text%20Outline.html"
 url_pdf: ""
 url_slides: ""
 url_video: ""
