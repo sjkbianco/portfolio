@@ -31,7 +31,7 @@ links:
 url_code: "/talk/2021-Virtual-FPCTP/Text%20Outline.html"
 url_pdf: ""
 url_slides: "/talk/2021-Virtual-FPCTP/Preparing%20Now%20for%20Accommodations%20and%20Assistive%20Technology.pptx"
-url_video: ""
+url_video: "https://youtu.be/H52XqNqT5Lg"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
