@@ -16,7 +16,7 @@ header:
   caption: "Photo by [Chris Liverani](https://unsplash.com/@chrisliverani?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/evaluation?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
   image: "evaluation.jpg"
 ---
-
+<!-- Two examples of robust tech evaluation tools are mentioned but there does not seem to be a direct connection between the instruments/tools and the example of technology. It would be helpful to see the tool applied to the technology. Suggest you reflect on your OWN experiences and use first person language as evidence. -->
 > Evaluation and implementation are essential pieces of the puzzle for engaging learning experiences. Alignment of both aspects will allow for the intentional use of selected materials.
 
 ## Technology Impacts
