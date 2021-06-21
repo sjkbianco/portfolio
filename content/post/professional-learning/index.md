@@ -16,7 +16,7 @@ header:
   caption: "Photo by [Leon](https://unsplash.com/@myleon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/training?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
   image: "pd.jpg"
 ---
-<!-- Good inclusion of feedback from Accessibility Tech Tuesdays. The list of suggestions is extensive for social media networks. However, there is not a lot of explanation or illustration of how the candidate is specifically using them personally for professional learning -->
+
 > With so many professional learning opportunities within the instructional technology field available, it can sometimes be a daunting task to keep track. Try some of these comprehensive opportunities to stay current.
 
 Professional development through your workplace is always an ideal track to keep current with pedagogical practices and the potential of new technology tools adopted by the institution. However, many of these opportunities may not exist for smaller instructional design teams or institutions with limited online course offerings. Fortunately, instructional technology does not lack free professional development opportunities and connections with other professionals.
@@ -25,7 +25,7 @@ Professional development through your workplace is always an ideal track to keep
 
 ### Facebook
 
-Facebook for professional development? That is correct, Facebook provides groups where professionals and friends can connect on particular topics, and instructional design is one of them! Much like reading your regular Facebook feed, groups appear within your feed and provide a "profile" to see all posts. There are public and private groups available. Depending on the number of users within the group, asking a question may garner an answer in minutes! I have found Facebook groups to be very helpful with locating information on various topics and broaden my understanding and knowledge. Below are some of the many groups on instructional design.
+Facebook for professional development? That is correct, Facebook provides groups where professionals and friends can connect on particular topics, and instructional design is one of them! Much like reading your regular Facebook feed, groups appear within your feed and provide a "profile" to see all posts. Then, depending on the number of users within the group, asking a question may garner an answer in minutes! I have found Facebook groups to be very helpful with locating information on various topics and broaden my understanding and knowledge.
 
 * [Instructional Design Discussion](https://www.facebook.com/groups/InstructionalDesignDiscussion/)
 * [Instructional Design Newbie](https://www.facebook.com/groups/idnewb/)
@@ -58,7 +58,7 @@ Twitter has so many content authors spread across the web. Among them are promin
 
 ## Professional Organizations
 
-
+Professional organizations are also great places to find networking and professional development opportunities through webinars, courses, and publications. Below are just some of the many eLearning-focused organizations. In addition, however, there are many state-level and consortium-driven organizations you can join to have more specific insights. I have found the training and recorded webinars from WCET, OLC, and QM valuable in providing easy-to-implement techniques and guidance into eLearning development.
 
 * [Association for the Advancement of Computing in Education (AACE)](https://www.aace.org/)
 * [Association for Educational Communication and Technology (AECT)](https://www.aect.org/)
@@ -72,7 +72,7 @@ Twitter has so many content authors spread across the web. Among them are promin
 
 ## Webinars
 
-
+I gain the most learning and insights from webinars. Setting aside the time for personal, professional development with recorded and live webinars works best for me. I certainly recommend the webinars from the websites below.
 
 * [EDUCAUSE Event Finder](https://events.educause.edu/event-finder)
 * [eLearning Industry Webinars]9https://elearningindustry.com/webinars)
