@@ -23,7 +23,7 @@ header:
 
 There are multiple integration frameworks available to review media, technology, and other educational materials within the online environment. Each of these frameworks provides a rubric or analytical lens to view specific aspects of implementation or integration. Concerning evaluation, it is a process to perform before, during, and after. It is also helpful to involve learners in the process, if at all possible. Some directions on the evaluation of technology within the online learning environment are available through the [Rubric for eLearning Tool Evaluation](https://teaching.uwo.ca/pdf/elearning/Rubric-for-eLearning-Tool-Evaluation.pdf) by Anstey & Watson (2018) and [The Technology Integration Matrix](https://fcit.usf.edu/matrix) by the Florida Center for Instructional Technology at the University of South Florida.
 
-The rubric developed by Anstey & Watson (2018) examines aspects of functionality, accessibility, technical, mobile design, privacy, data protection and rights, social presence, teaching presence, and cognitive presence. While in contrast, The Technology Integration Matrix evaluates the level of engagement and implementation of the technology's use. Taking the topic of evaluation further, we should also consider [Mayer's twelve principles of multimedia (DeBell, 2019)](https://waterbearlearning.com/mayers-principles-multimedia-learning/).
+The rubric developed by Anstey & Watson (2018) examines aspects of functionality, accessibility, technical, mobile design, privacy, data protection and rights, social presence, teaching presence, and cognitive presence. While in contrast, The Technology Integration Matrix evaluates the level of engagement and implementation of the technology's use. Taking the topic of evaluation further, we should also consider [Mayer's twelve principles of multimedia (DeBell, 2019)](https://waterbearlearning.com/mayers-principles-multimedia-learning/) when including multimedia to online learning.
 
 Consider as many evaluation points or your preferred rubrics for assessment while also requesting feedback from your stakeholders. For example, let's consider adding a video player on a content page within an online course. It is a straightforward piece of content to embed, and many video hosting websites provide an easy-to-copy and paste embed code. But simply evaluating for accessibility can provide usability factors.
 
@@ -48,6 +48,10 @@ For an example video, we will provide the [YouTube Algorithms: How to Avoid the 
 <div class="embed-responsive embed-responsive-16by9 mb-3 mt-3"><iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/CuFKYSSZtpo?ecver=1&amp;cc_load_policy=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;" class="embed-responsive-item" allowtransparency="true" frameborder="0"></iframe></div>
 
 We can see the video player is keyboard accessible, the video does not autoplay, there are accurate captions, and users can easily make the video play in full-screen. After we have established those criteria are met. We can further review the media against the overall content of the lesson, ensure the video is embedded consistent with local design standards, and align both the video and content to the overall learning objectives for the course, module, and lesson.
+
+## Personal Analysis
+
+Evaluating YouTube content through the [Rubric for eLearning Tool Evaluation](https://teaching.uwo.ca/pdf/elearning/Rubric-for-eLearning-Tool-Evaluation.pdf) by Anstey & Watson (2018) and [The Technology Integration Matrix](https://fcit.usf.edu/matrix) by the Florida Center for Instructional Technology at the University of South Florida.
 
 ## References
 
