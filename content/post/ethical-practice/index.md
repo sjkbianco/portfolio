@@ -58,6 +58,14 @@ Park & Vance (2021) provide three recommendations for improving digital citizens
 
 These recommendations show the need for educational institutions to make privacy policies available to learners for third-party tools available within courses. Also, learners expect an explanation of what information is on record and what shared information is available from the institution to other agencies. These are not unreasonable requests. They foster an environment of transparency. Learners will also have a better idea of what information may be available if there is a data breach.
 
+## Family Educational Rights and Privacy Act (FERPA)
+
+In 1974, Congress passed the [Federal Educational Rights and Privacy Act (FERPA)](https://studentprivacy.ed.gov/) also known as the Buckley Amendment is a Federal Law codified under [20 U.S.C. § 1232g](https://uscode.house.gov/view.xhtml?req=(title:20%20section:1232g%20edition:prelim)) and having regulations under [34 CFR Part 99](https://www.ecfr.gov/cgi-bin/text-idx?rgn=div5&node=34:1.1.1.1.33). [Section 1002.22 of the Florida Statutes](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1002/Sections/1002.22.html) requires public educational institutions to comply with FERPA mandates.
+
+## Suggestions
+
+
+
 ## References
 
 Davis, V. (2017, November 1). *[What your students really need to know about digital citizenship](https://www.edutopia.org/blog/digital-citizenship-need-to-know-vicki-davis)*. Edutopia.
