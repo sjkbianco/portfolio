@@ -28,7 +28,7 @@ Sway allows instructors and learners to rapidly create visually appealing presen
 
 Once the user finishes their Sway, they can embed it into any online platform with the capability to support iframes. Users may also share via a direct link to select individuals or make the link public. Viewers of the presentation have the option to download the Sway as a PDF or Word Document. There is also an accessibility view that removes animations, provides higher contrast colors, underlines links, and shows alternative text for images. Responsive design is also built-in to offer an excellent viewing experience regardless of screen size or the type of device. The responsive presentation of the content allows individuals with limited technology to access the content. The individual only needs access to an internet connection and a browser.
 
-Both factors of responsive presentation and the ability to download an alternative format allow for individual choice in how they access the content allowing for audience diversity. Please review the related article on Sway for additional considerations and a more in-depth review.
+Both factors of responsive presentation and the ability to download an alternative format allow for individual choice in how they access the content allowing for audience diversity. Please review the [related article on Sway](/post/sway/) for additional considerations and a more in-depth review.
 
 ## OneNote
 
