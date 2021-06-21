@@ -16,7 +16,7 @@ header:
   caption: "Photo by [Leon](https://unsplash.com/@myleon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/training?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
   image: "pd.jpg"
 ---
-
+<!-- Good inclusion of feedback from Accessibility Tech Tuesdays. The list of suggestions is extensive for social media networks. However, there is not a lot of explanation or illustration of how the candidate is specifically using them personally for professional learning -->
 > With so many professional learning opportunities within the instructional technology field available, it can sometimes be a daunting task to keep track. Try some of these comprehensive opportunities to stay current.
 
 Professional development through your workplace is always an ideal track to keep current with pedagogical practices and the potential of new technology tools adopted by the institution. However, many of these opportunities may not exist for smaller instructional design teams or institutions with limited online course offerings. Fortunately, instructional technology does not lack free professional development opportunities and connections with other professionals.
@@ -25,12 +25,16 @@ Professional development through your workplace is always an ideal track to keep
 
 ### Facebook
 
+Facebook for professional development? That is correct, Facebook provides groups where professionals and friends can connect on particular topics, and instructional design is one of them! Much like reading your regular Facebook feed, groups appear within your feed and provide a "profile" to see all posts. There are public and private groups available. Depending on the number of users within the group, asking a question may garner an answer in minutes! I have found Facebook groups to be very helpful with locating information on various topics and broaden my understanding and knowledge. Below are some of the many groups on instructional design.
+
 * [Instructional Design Discussion](https://www.facebook.com/groups/InstructionalDesignDiscussion/)
 * [Instructional Design Newbie](https://www.facebook.com/groups/idnewb/)
 * [Instructional Designer](https://www.facebook.com/groups/idesigner/)
 * [Instructional Designers in Education](https://www.facebook.com/groups/1526889350715555/)
 
 ### LinkedIn
+
+LinkedIn also provides groups and the ability to increase your professional network. Much like the Facebook groups, there are numerous topics available. When exploring groups, you can see if one or more of your connections on LinkedIn are members. It is reaffirming to see your contacts involved in groups you are interested. There are public and private groups available. Recently, LinkedIn enhanced the discovery of groups by adding them as a segment of their search feature. Type in a topic, select groups, and explore. Below are some helpful groups on instructional design.
 
 * [Center for Instructional Design and Training](https://www.linkedin.com/groups/3964831/)
 * [Freelance in Instructional Design and E-Learning Industry](https://www.linkedin.com/groups/3638251/)
@@ -39,6 +43,8 @@ Professional development through your workplace is always an ideal track to keep
 * [Instructional Systems Design Professional](https://www.linkedin.com/groups/156321/)
 
 ### Twitter
+
+Twitter has so many content authors spread across the web. Among them are prominent professionals, news agencies, professional organizations, and governmental agencies. I have found Twitter an excellent resource in expanding my personal learning network and for professional networking. There are even Twitter chats where users search for a specific hashtag during a scheduled time and answer questions from moderators. Twitter chats are helpful even after the scheduled meeting time because the content is available for comments.
 
 * [Articulate](https://twitter.com/Articulate)
 * [Association for Educational Communications & Technology (AECT)](https://twitter.com/AECT)
@@ -52,6 +58,8 @@ Professional development through your workplace is always an ideal track to keep
 
 ## Professional Organizations
 
+
+
 * [Association for the Advancement of Computing in Education (AACE)](https://www.aace.org/)
 * [Association for Educational Communication and Technology (AECT)](https://www.aect.org/)
 * [EDUCAUSE](https://www.educause.edu/)
@@ -63,6 +71,8 @@ Professional development through your workplace is always an ideal track to keep
 * [WICHE Cooperative for Educational Technologies (WCET)](https://wcet.wiche.edu/)
 
 ## Webinars
+
+
 
 * [EDUCAUSE Event Finder](https://events.educause.edu/event-finder)
 * [eLearning Industry Webinars]9https://elearningindustry.com/webinars)
