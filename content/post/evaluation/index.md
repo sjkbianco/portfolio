@@ -56,8 +56,32 @@ Evaluating YouTube content through the [Rubric for eLearning Tool Evaluation](ht
 | Category | Criteria | Rating | Notes |
 | :-: | :-: | :-: | :-: |
 | Functionality | Scale | Works Well | |
-
-
+| Functionality | Ease of Use | Works Well | |
+| Functionality | Tech Support / Help Availability | Works Well | |
+| Functionality | Hypermediality | Works Well | |
+| Accessibility | Accessibility Standards | Works Well | |
+| Accessibility | User-focused participation | Works Well | |
+| Accessibility | Required Equipment | Works Well | |
+| Accessibility | Cost of Use | Works Well | |
+| Technical | Integration / Embedding within a Learning Management System (LMS) | Works Well | |
+| Technical | Desktop / Laptop Operating Systems | Works Well | |
+| Technical | Browser | Works Well | |
+| Technical | Additional Downloads | Works Well | |
+| Mobile Design | Access | Works Well | |
+| Mobile Design | Functionality | Works Well | |
+| Mobile Design | Offline Access | Works Well | |
+| Privacy, Data Protection, and Rights | Sign Up / Sign In | Works Well | |
+| Privacy, Data Protection, and Rights | Data Privacy and Ownership | Works Well | |
+| Privacy, Data Protection, and Rights | Archiving, Saving, and Exporting Data | Works Well | |
+| Social Presence | Collaboration | Works Well | |
+| Social Presence | User Accountability | Works Well | |
+| Social Presence | Diffusion | Works Well | |
+| Teaching Presence | Facilitation | Works Well | |
+| Teaching Presence | Customization | Works Well | |
+| Teaching Presence | Learning Analytics | Works Well | |
+| Cognitive Presence | Enhancement of Cognitive Task(s) | Works Well | |
+| Cognitive Presence | Higher Order Thinking | Works Well | |
+| Cognitive Presence | Metacognitive Engagement | Works Well | |
 
 and [The Technology Integration Matrix](https://fcit.usf.edu/matrix) by the Florida Center for Instructional Technology at the University of South Florida.
 
