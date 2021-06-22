@@ -16,7 +16,7 @@ header:
   caption: "Photo by [Chris Liverani](https://unsplash.com/@chrisliverani?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/evaluation?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
   image: "evaluation.jpg"
 ---
-<!-- Two examples of robust tech evaluation tools are mentioned but there does not seem to be a direct connection between the instruments/tools and the example of technology. It would be helpful to see the tool applied to the technology. Suggest you reflect on your OWN experiences and use first person language as evidence. -->
+
 > Evaluation and implementation are essential pieces of the puzzle for engaging learning experiences. Alignment of both aspects will allow for the intentional use of selected materials.
 
 ## Technology Impacts
@@ -158,73 +158,73 @@ Evaluating YouTube content through the [Rubric for eLearning Tool Evaluation](ht
 		<tr>
 			<td>Privacy, Data Protection, and Rights</td>
 			<td>Sign Up / Sign In</td>
-			<td>Works Well</td>
-			<td></td>
+			<td>Serious Concerns</td>
+			<td>Users do not need to sign up for an account to access video content. However, requiring a student to sign up for an account does collect personally identifiable information to YouTube as a third-party.</td>
 		</tr>
 		<tr>
 			<td>Privacy, Data Protection, and Rights</td>
 			<td>Data Privacy and Ownership</td>
-			<td>Works Well</td>
-			<td></td>
+			<td>Not Applicable</td>
+			<td>If considering adopting a paid account for YouTube, run the terms and conditions past your local Legal Counsel. The amount of ownership is a fuzzy area when uploading content to YouTube as they will take down content. Users can place videos as private, but if there are segments of copyrighted material within the video, YouTube may not allow for that video to receive a shareable link.</td>
 		</tr>
 		<tr>
 			<td>Privacy, Data Protection, and Rights</td>
 			<td>Archiving, Saving, and Exporting Data</td>
 			<td>Works Well</td>
-			<td></td>
+			<td>Users can upload content in a variety of file formats. However, the user can only download or "back up" their content in the originally uploaded format.</td>
 		</tr>
 		<tr>
 			<td>Social Presence</td>
 			<td>Collaboration</td>
 			<td>Works Well</td>
-			<td></td>
+			<td>YouTube supports live streaming with interaction in the form of a text chat for comments and limited reactions. The platform is mainly available to broadcast and not have others interactively join a session. Live streams do support the integration of Zoom and other streaming providers to publish an interactive session live and make the video available as an asynchronous tool.</td>
 		</tr>
 		<tr>
 			<td>Social Presence</td>
 			<td>User Accountability</td>
-			<td>Works Well</td>
+			<td>Not Applicable</td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>Social Presence</td>
 			<td>Diffusion</td>
 			<td>Works Well</td>
-			<td></td>
+			<td>YouTube is widely known and popular. It is likely that most learners are familiar with the tool and have basic technical competence.</td>
 		</tr>
 		<tr>
 			<td>Teaching Presence</td>
 			<td>Facilitation</td>
 			<td>Works Well</td>
-			<td></td>
+			<td>YouTube works well at promoting teaching presence in an asynchronous environment. However, it is not applicable in the live classroom.</td>
 		</tr>
 		<tr>
 			<td>Teaching Presence</td>
 			<td>Customization</td>
 			<td>Works Well</td>
-			<td></td>
+			<td>Instructors can customize YouTube to fit the classroom context. I have had instructors provide YouTube videos to share feedback on my work. I have seen it used to provide teacher presence in announcements and for small groups.</td>
 		</tr>
 		<tr>
 			<td>Teaching Presence</td>
 			<td>Learning Analytics</td>
-			<td>Works Well</td>
+			<td>Not Applicable</td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>Cognitive Presence</td>
 			<td>Enhancement of Cognitive Task(s)</td>
-			<td>Works Well</td>
-			<td></td>
+			<td>Serious Concerns</td>
+			<td>YouTube videos replace an interaction or lecture within a traditional classroom-based environment. Depending on the content, little to no cognitive engagement may result from viewing a video.</td>
 		</tr>
 		<tr>
 			<td>Cognitive Presence</td>
 			<td>Higher Order Thinking</td>
 			<td>Works Well</td>
-			<td></td>
+			<td>Instructors can post videos that promote higher-order thinking, depending upon familiarity with video authoring tools.</td>
 		</tr>
 		<tr>
 			<td>Cognitive Presence</td>
 			<td>Metacognitive Engagement</td>
-			<td>Works Well</td>
+			<td>Not Applicable</td>
 			<td></td>
 		</tr>
 	</tbody>
@@ -235,6 +235,8 @@ Evaluating YouTube content through [The Technology Integration Matrix](https://f
 * **Students.** Students receive information from the teacher or from other sources. Students may be watching an instructional video on a website or using a computer program for drill and practice activities.
 * **Teacher.** The teacher may be the only one actively using technology. This may include using presentation software to support delivery of a lecture. The teacher may also have the students complete drill and practice activities on computers to practice basic skills, such as typing.
 * **Setting.** The setting is arranged for direct instruction and individual work. Any student access to technology resources is limited and highly regulated.
+
+I agree, depending upon the content and classroom context. Students can use YouTube videos to share digital portfolio content, present their ideas, and promote twenty-first-century skills. The primary basis of evaluation is on the posting of YouTube videos within LMS content. The Technology Integration Matrix provides other levels of engagement and levels of adoption.
 
 ## References
 
