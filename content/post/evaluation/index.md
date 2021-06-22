@@ -51,7 +51,7 @@ We can see the video player is keyboard accessible, the video does not autoplay,
 
 ## Personal Analysis
 
-Evaluating YouTube content through the [Rubric for eLearning Tool Evaluation](https://teaching.uwo.ca/pdf/elearning/Rubric-for-eLearning-Tool-Evaluation.pdf) by Anstey & Watson (2018)
+Evaluating YouTube content through the [Rubric for eLearning Tool Evaluation](https://teaching.uwo.ca/pdf/elearning/Rubric-for-eLearning-Tool-Evaluation.pdf) by Anstey & Watson (2018) results in the following:
 
 | Category | Criteria | Rating | Notes |
 | :-: | :-: | :-: | :-: |
@@ -83,7 +83,11 @@ Evaluating YouTube content through the [Rubric for eLearning Tool Evaluation](ht
 | Cognitive Presence | Higher Order Thinking | Works Well | |
 | Cognitive Presence | Metacognitive Engagement | Works Well | |
 
-and [The Technology Integration Matrix](https://fcit.usf.edu/matrix) by the Florida Center for Instructional Technology at the University of South Florida.
+Evaluating YouTube content through [The Technology Integration Matrix](https://fcit.usf.edu/matrix) by the Florida Center for Instructional Technology at the University of South Florida depends upon the degree to which the technology is integrated or implemented in the classroom. Simply providing a video on a page for a learner to view for information would result in an "active learning, entry level" where information is passively received. The extended descriptors from the matrix are as follows:
+
+* Students. Students receive information from the teacher or from other sources. Students may be watching an instructional video on a website or using a computer program for drill and practice activities.
+* Teacher. The teacher may be the only one actively using technology. This may include using presentation software to support delivery of a lecture. The teacher may also have the students complete drill and practice activities on computers to practice basic skills, such as typing.
+* Setting. The setting is arranged for direct instruction and individual work. Any student access to technology resources is limited and highly regulated.
 
 ## References
 
