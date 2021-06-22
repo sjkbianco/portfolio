@@ -56,9 +56,9 @@ Evaluating YouTube content through the [Rubric for eLearning Tool Evaluation](ht
 <table class="table table-responsive">
 	<thead>
 		<tr>
-			<th scope="col">Criteria</th>
-			<th scope="col">Rating</th>
-			<th scope="col">Notes</th>
+			<th scope="col" style="width: 15%;">Criteria</th>
+			<th scope="col" style="width: 15%;">Rating</th>
+			<th scope="col" style="width: 70%;">Notes</th>
 		</tr>
 	</thead>
 	<tbody>
