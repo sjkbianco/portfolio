@@ -56,7 +56,6 @@ Evaluating YouTube content through the [Rubric for eLearning Tool Evaluation](ht
 <table class="table table-responsive">
 	<thead>
 		<tr>
-			<th scope="col">Category</th>
 			<th scope="col">Criteria</th>
 			<th scope="col">Rating</th>
 			<th scope="col">Notes</th>
@@ -64,19 +63,16 @@ Evaluating YouTube content through the [Rubric for eLearning Tool Evaluation](ht
 	</thead>
 	<tbody>
 		<tr>
-			<td>Functionality</td>
 			<td>Scale</td>
 			<td>Works Well</td>
 			<td>Instructors can share YouTube content to an entire class through LMS content such as pages, announcements, assignments, and personal messaging.</td>
 		</tr>
 		<tr>
-			<td>Functionality</td>
 			<td>Ease of Use</td>
 			<td>Works Well</td>
 			<td>YouTube provides a user-friendly interface that is easy for both learners and instructors to become familiar with using. Minimal customization is available for the player.</td>
 		</tr>
 		<tr>
-			<td>Functionality</td>
 			<td>Tech Support / Help Availability</td>
 			<td>Works Well</td>
 			<td>Technical documentation is publically available through <a href="https://support.google.com/youtube/?hl=en#topic=9257498"
@@ -84,145 +80,121 @@ Evaluating YouTube content through the [Rubric for eLearning Tool Evaluation](ht
  					rel="noopener">YouTube Help</a> in a variety of languages. Most local Information Technology support personnel will assist with standard solutions related to video posting settings.</td>
 		</tr>
 		<tr>
-			<td>Functionality</td>
 			<td>Hypermediality</td>
 			<td>Works Well</td>
       <td></td>
 		</tr>
 		<tr>
-			<td>Accessibility</td>
 			<td>Accessibility Standards</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Accessibility</td>
 			<td>User-focused participation</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Accessibility</td>
 			<td>Required Equipment</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Accessibility</td>
 			<td>Cost of Use</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Technical</td>
 			<td>Integration / Embedding within a Learning Management System (LMS)</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Technical</td>
 			<td>Desktop / Laptop Operating Systems</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Technical</td>
 			<td>Browser</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Technical</td>
 			<td>Additional Downloads</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Mobile Design</td>
 			<td>Access</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Mobile Design</td>
 			<td>Functionality</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Mobile Design</td>
 			<td>Offline Access</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Privacy, Data Protection, and Rights</td>
 			<td>Sign Up / Sign In</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Privacy, Data Protection, and Rights</td>
 			<td>Data Privacy and Ownership</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Privacy, Data Protection, and Rights</td>
 			<td>Archiving, Saving, and Exporting Data</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Social Presence</td>
 			<td>Collaboration</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Social Presence</td>
 			<td>User Accountability</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Social Presence</td>
 			<td>Diffusion</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Teaching Presence</td>
 			<td>Facilitation</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Teaching Presence</td>
 			<td>Customization</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Teaching Presence</td>
 			<td>Learning Analytics</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Cognitive Presence</td>
 			<td>Enhancement of Cognitive Task(s)</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Cognitive Presence</td>
 			<td>Higher Order Thinking</td>
 			<td>Works Well</td>
 			<td></td>
 		</tr>
 		<tr>
-			<td>Cognitive Presence</td>
 			<td>Metacognitive Engagement</td>
 			<td>Works Well</td>
 			<td></td>
@@ -230,7 +202,7 @@ Evaluating YouTube content through the [Rubric for eLearning Tool Evaluation](ht
 	</tbody>
 </table>
 
-Evaluating YouTube content through [The Technology Integration Matrix](https://fcit.usf.edu/matrix) by the Florida Center for Instructional Technology at the University of South Florida depends upon the degree to which the technology is integrated or implemented in the classroom. Simply providing a video on a page for a learner to view for information would result in an "active learning, entry level" where information is passively received. The extended descriptors from the matrix are as follows:
+Evaluating YouTube content through [The Technology Integration Matrix](https://fcit.usf.edu/matrix) by the Florida Center for Instructional Technology at the University of South Florida depends upon the degree to which the technology is integrated or implemented in the classroom. Simply providing a video on a page for a learner to view for information would result in an **"active learning, entry level"** where information is passively received. The extended descriptors from the matrix are as follows:
 
 * **Students.** Students receive information from the teacher or from other sources. Students may be watching an instructional video on a website or using a computer program for drill and practice activities.
 * **Teacher.** The teacher may be the only one actively using technology. This may include using presentation software to support delivery of a lecture. The teacher may also have the students complete drill and practice activities on computers to practice basic skills, such as typing.
