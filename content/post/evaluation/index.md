@@ -53,7 +53,7 @@ We can see the video player is keyboard accessible, the video does not autoplay,
 
 Evaluating YouTube content through the [Rubric for eLearning Tool Evaluation](https://teaching.uwo.ca/pdf/elearning/Rubric-for-eLearning-Tool-Evaluation.pdf) by Anstey & Watson (2018) results in the following:
 
-<table class="table table-responsive">
+<table>
 	<thead>
 		<tr>
 			<th scope="col" style="width: 15%;">Criteria</th>
