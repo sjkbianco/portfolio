@@ -55,9 +55,9 @@ Evaluating YouTube content through the [Rubric for eLearning Tool Evaluation](ht
 
 | Category | Criteria | Rating | Notes |
 | :-: | :-: | :-: | :-: |
-| Functionality | Scale | Works Well | |
-| Functionality | Ease of Use | Works Well | |
-| Functionality | Tech Support / Help Availability | Works Well | |
+| Functionality | Scale | Works Well | Instructors can share YouTube content to an entire class through LMS content such as pages, announcements, assignments, and personal messaging. |
+| Functionality | Ease of Use | Works Well | YouTube provides a user-friendly interface that is easy for both learners and instructors to become familiar with using. Minimal customization is available for the player. |
+| Functionality | Tech Support / Help Availability | Works Well | Technical documentation is publically available through [YouTube Help](https://support.google.com/youtube/?hl=en#topic=9257498) in a variety of languages. Most local Information Technology support personnel will assist with standard solutions related to video posting settings. |
 | Functionality | Hypermediality | Works Well | |
 | Accessibility | Accessibility Standards | Works Well | |
 | Accessibility | User-focused participation | Works Well | |
