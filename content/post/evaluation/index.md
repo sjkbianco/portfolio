@@ -232,9 +232,9 @@ Evaluating YouTube content through the [Rubric for eLearning Tool Evaluation](ht
 
 Evaluating YouTube content through [The Technology Integration Matrix](https://fcit.usf.edu/matrix) by the Florida Center for Instructional Technology at the University of South Florida depends upon the degree to which the technology is integrated or implemented in the classroom. Simply providing a video on a page for a learner to view for information would result in an "active learning, entry level" where information is passively received. The extended descriptors from the matrix are as follows:
 
-* Students. Students receive information from the teacher or from other sources. Students may be watching an instructional video on a website or using a computer program for drill and practice activities.
-* Teacher. The teacher may be the only one actively using technology. This may include using presentation software to support delivery of a lecture. The teacher may also have the students complete drill and practice activities on computers to practice basic skills, such as typing.
-* Setting. The setting is arranged for direct instruction and individual work. Any student access to technology resources is limited and highly regulated.
+* **Students.** Students receive information from the teacher or from other sources. Students may be watching an instructional video on a website or using a computer program for drill and practice activities.
+* **Teacher.** The teacher may be the only one actively using technology. This may include using presentation software to support delivery of a lecture. The teacher may also have the students complete drill and practice activities on computers to practice basic skills, such as typing.
+* **Setting.** The setting is arranged for direct instruction and individual work. Any student access to technology resources is limited and highly regulated.
 
 ## References
 
