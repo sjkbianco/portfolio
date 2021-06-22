@@ -53,7 +53,6 @@ We can see the video player is keyboard accessible, the video does not autoplay,
 
 Evaluating YouTube content through the [Rubric for eLearning Tool Evaluation](https://teaching.uwo.ca/pdf/elearning/Rubric-for-eLearning-Tool-Evaluation.pdf) by Anstey & Watson (2018) results in the following:
 
-<div class="table-responsive">
 <table class="table table-responsive">
 	<thead>
 		<tr>
@@ -230,7 +229,6 @@ Evaluating YouTube content through the [Rubric for eLearning Tool Evaluation](ht
 		</tr>
 	</tbody>
 </table>
-</div>
 
 Evaluating YouTube content through [The Technology Integration Matrix](https://fcit.usf.edu/matrix) by the Florida Center for Instructional Technology at the University of South Florida depends upon the degree to which the technology is integrated or implemented in the classroom. Simply providing a video on a page for a learner to view for information would result in an "active learning, entry level" where information is passively received. The extended descriptors from the matrix are as follows:
 
