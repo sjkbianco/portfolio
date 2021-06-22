@@ -73,7 +73,7 @@ Evaluating YouTube content through the [Rubric for eLearning Tool Evaluation](ht
 			<td>Functionality</td>
 			<td>Ease of Use</td>
 			<td>Works Well</td>
-			<td>YouTube provides a user-friendly interface that is easy for both learners and instructors to become familiar with using. Minimal customization is available for the player.</td>
+			<td>YouTube provides a user-friendly interface that is easy for both learners and instructors to become familiar with using. In addition, minimal customization is available for the player.</td>
 		</tr>
 		<tr>
 			<td>Functionality</td>
@@ -81,37 +81,37 @@ Evaluating YouTube content through the [Rubric for eLearning Tool Evaluation](ht
 			<td>Works Well</td>
 			<td>Technical documentation is publically available through <a href="https://support.google.com/youtube/?hl=en#topic=9257498"
  					target="_blank"
- 					rel="noopener">YouTube Help</a> in a variety of languages. Most local Information Technology support personnel will assist with standard solutions related to video posting settings.</td>
+ 					rel="noopener">YouTube Help</a> in a variety of languages. In addition, most local Information Technology support personnel will assist with standard solutions related to video posting settings.</td>
 		</tr>
 		<tr>
 			<td>Functionality</td>
 			<td>Hypermediality</td>
-			<td>Works Well</td>
-      <td></td>
+			<td>Minor Concerns</td>
+      <td>While the video platform does support video hotspots and annotations produced by an author, the interactivity with the content is limited and not available for branching.</td>
 		</tr>
 		<tr>
 			<td>Accessibility</td>
 			<td>Accessibility Standards</td>
-			<td>Works Well</td>
-			<td></td>
+			<td>Minor Concerns</td>
+			<td>YouTube provides the ability to upload caption and subtitle files and will automatically generate captions from the video source language. However, automated captions are not as accurate as human transcription. YouTube also does not provide the ability to add an audio description soundtrack.</td>
 		</tr>
 		<tr>
 			<td>Accessibility</td>
 			<td>User-focused participation</td>
-			<td>Works Well</td>
-			<td></td>
+			<td>Not Applicable</td>
+			<td>The original content authoring provides the ability to provide opportunities for participation in learning.</td>
 		</tr>
 		<tr>
 			<td>Accessibility</td>
 			<td>Required Equipment</td>
 			<td>Works Well</td>
-			<td></td>
+			<td>YouTube does not require additional equipment to function beyond a current web browser, speakers, microphone, and internet connection.</td>
 		</tr>
 		<tr>
 			<td>Accessibility</td>
 			<td>Cost of Use</td>
-			<td>Works Well</td>
-			<td></td>
+			<td>Minor Concerns</td>
+			<td>Advertising and requests to try out the free trial of YouTube Premium can be intrusive and require repeated dismissal. Some aspects of the platform do require subscription services for feature films and television episodes.</td>
 		</tr>
 		<tr>
 			<td>Technical</td>
@@ -123,37 +123,37 @@ Evaluating YouTube content through the [Rubric for eLearning Tool Evaluation](ht
 			<td>Technical</td>
 			<td>Desktop / Laptop Operating Systems</td>
 			<td>Works Well</td>
-			<td></td>
+			<td>Most Learning Management Systems support the direct embed of YouTube video content via an embed code. I recommend using the embed code method with no tracking, see the support article on <a href="https://support.google.com/youtube/answer/171780?hl=en#zippy=%2Cturn-on-privacy-enhanced-mode" target="_blank">Embedding videos using YouTube's Privacy Enhanced Mode</a></td>
 		</tr>
 		<tr>
 			<td>Technical</td>
 			<td>Browser</td>
 			<td>Works Well</td>
-			<td></td>
+			<td>Users can effectively utilize YouTube with any standard, up-to-date browser.</td>
 		</tr>
 		<tr>
 			<td>Technical</td>
 			<td>Additional Downloads</td>
 			<td>Works Well</td>
-			<td></td>
+			<td>Users do not need to download additional software or browser extensions. However, many browser extensions are available to customize the YouTube viewing experience.</td>
 		</tr>
 		<tr>
 			<td>Mobile Design</td>
 			<td>Access</td>
 			<td>Works Well</td>
-			<td></td>
+			<td>Users can access YouTube via a mobile web browser, mobile app for iOS and Andriod, and various other platforms like Amazon Fire TV products, Roku, XBOX, and other systems. Thus, their platform works well on different screen sizes, including smaller screens.</td>
 		</tr>
 		<tr>
 			<td>Mobile Design</td>
 			<td>Functionality</td>
 			<td>Works Well</td>
-			<td></td>
+			<td>The user experience is nearly identical on mobile devices as it is on regular laptop and desktop computers.</td>
 		</tr>
 		<tr>
 			<td>Mobile Design</td>
 			<td>Offline Access</td>
-			<td>Works Well</td>
-			<td></td>
+			<td>Serious Concerns</td>
+			<td>Offline access to content is not available for free accounts.</td>
 		</tr>
 		<tr>
 			<td>Privacy, Data Protection, and Rights</td>
