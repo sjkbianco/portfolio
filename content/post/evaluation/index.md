@@ -117,13 +117,13 @@ Evaluating YouTube content through the [Rubric for eLearning Tool Evaluation](ht
 			<td>Technical</td>
 			<td>Integration / Embedding within a Learning Management System (LMS)</td>
 			<td>Works Well</td>
-			<td></td>
+			<td>Most Learning Management Systems support the direct embed of YouTube video content via an embed code. I recommend using the embed code method with no tracking, see the support article on <a href="https://support.google.com/youtube/answer/171780?hl=en#zippy=%2Cturn-on-privacy-enhanced-mode" target="_blank">Embedding videos using YouTube's Privacy Enhanced Mode</a></td>
 		</tr>
 		<tr>
 			<td>Technical</td>
 			<td>Desktop / Laptop Operating Systems</td>
 			<td>Works Well</td>
-			<td>Most Learning Management Systems support the direct embed of YouTube video content via an embed code. I recommend using the embed code method with no tracking, see the support article on <a href="https://support.google.com/youtube/answer/171780?hl=en#zippy=%2Cturn-on-privacy-enhanced-mode" target="_blank">Embedding videos using YouTube's Privacy Enhanced Mode</a></td>
+			<td>Users can effectively utilize YouTube with any standard, up-to-date browser on any operating system.</td>
 		</tr>
 		<tr>
 			<td>Technical</td>
@@ -244,6 +244,6 @@ Above The Noise. (2019, June 19). *[YouTube algorithms: How to avoid the rabbit 
 
 Anstey, L. & Watson, G. (2018, September 10). *[A rubric for evaluating e-learning tools in higher education](https://er.educause.edu/articles/2018/9/a-rubric-for-evaluating-e-learning-tools-in-higher-education)*. EDUCAUSE Review.
 
-DeBell, A. (2019, December 11). *[How to use Mayer's twenve principles of multimedia, examples included](https://waterbearlearning.com/mayers-principles-multimedia-learning/)*. Water Bear Learning.
+DeBell, A. (2019, December 11). *[How to use Mayer's twelve principles of multimedia, examples included](https://waterbearlearning.com/mayers-principles-multimedia-learning/)*. Water Bear Learning.
 
 Florida Center for Instructional Technology. (n.d.). *[The technology integration matrix](https://fcit.usf.edu/matrix)*. University of South Florida.
