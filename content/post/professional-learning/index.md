@@ -75,7 +75,7 @@ Professional organizations are also great places to find networking and professi
 I gain the most learning and insights from webinars. Setting aside the time for personal, professional development with recorded and live webinars works best for me. I certainly recommend the webinars from the websites below.
 
 * [EDUCAUSE Event Finder](https://events.educause.edu/event-finder)
-* [eLearning Industry Webinars]9https://elearningindustry.com/webinars)
+* [eLearning Industry Webinars](https://elearningindustry.com/webinars)
 * [Online Learning Consortium (OLC) Webinars](https://onlinelearningconsortium.org/learn/webinars/)
 * [Quality Matters (QM) Conference Session Recordings](https://www.qualitymatters.org/events/webcasting-recordings)
 
