@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Instructional Technology Portfolio"
+title = "EME 6405 Integrating Technology into Instruction"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = ""
@@ -51,6 +51,6 @@ title = "Instructional Technology Portfolio"
 #  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-Welcome to Steven Bianco's Instructional Technology Portfolio! This portfolio covers instructional and educational technologies within my work in Higher Education accessibility online workshop offerings to faculty. While many of the tools are available for use within the in-person classroom to enhance learning, the focus is to provide collaboration in the online learning environment.
+Welcome to Steven Bianco's EME 6405 Integrating Technology into Instruction Portfolio! This portfolio covers instructional and educational technologies within my work in Higher Education accessibility online workshop offerings to faculty. While many of the tools are available for use within the in-person classroom to enhance learning, the focus is to provide collaboration in the online learning environment.
 
 <small><span style="position:absolute; bottom:0; right:0; margin-right: 25px; margin-bottom: 15px;">Photo by <a href="https://unsplash.com/@sapegin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Artem Sapegin</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></span></small>
