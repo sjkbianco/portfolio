@@ -51,6 +51,8 @@ title = "EME 6405 Integrating Technology into Instruction"
 #  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-Welcome to Steven Bianco's EME 6405 Integrating Technology into Instruction Portfolio! This portfolio covers instructional and educational technologies within my work in Higher Education accessibility online workshop offerings to faculty. While many of the tools are available for use within the in-person classroom to enhance learning, the focus is to provide collaboration in the online learning environment.
+> At the heart of effective technology integration practices, digital technologies offer learners greater opportunities to be more actively involved in the learning experience.
+
+<p style="text-align: right;"> &emdash; *[Vanessa Vega](https://www.edutopia.org/technology-integration-research-learning-outcomes)*</p>
 
 <small><span style="position:absolute; bottom:0; right:0; margin-right: 25px; margin-bottom: 15px;">Photo by <a href="https://unsplash.com/@sapegin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Artem Sapegin</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></span></small>
