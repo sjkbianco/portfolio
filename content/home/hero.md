@@ -53,10 +53,7 @@ title = "EME 6405 Integrating Technology into Instruction"
 
 <blockquote class="blockquote">
   <p class="mb-0">At the heart of effective technology integration practices, digital technologies offer learners greater opportunities to be more actively involved in the learning experience.</p>
-  <footer class="blockquote-footer"><cite title="Author"><a href="https://www.edutopia.org/technology-integration-research-learning-outcomes" target="_blank">Vanessa Vega</a></cite></footer>
+  <footer class="blockquote-footer" style="text-align: right;"><cite title="Author"><a href="https://www.edutopia.org/technology-integration-research-learning-outcomes" target="_blank">Vanessa Vega</a></cite></footer>
 </blockquote>
-
-> 
-<p style='text-align: right;'> &mdash; *[]()* </p>
 
 <small><span style="position:absolute; bottom:0; right:0; margin-right: 25px; margin-bottom: 15px;">Photo by <a href="https://unsplash.com/@sapegin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Artem Sapegin</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></span></small>
