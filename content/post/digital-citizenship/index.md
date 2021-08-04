@@ -17,7 +17,7 @@ header:
   image: "https://sjkbianco.netlify.app/post/digital-citizenship/dan-nelson-ah-HeguOe9k-unsplash.jpg"
 ---
 
-
+<!-- Add a paragraph reflecting on the importance of digital citizenship in your professional practice for you and, if applicable, your learners. What did you learn about digital citizenship? How can you continue to grow in your knowledge of digital citizenship.-->
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%;
  padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
