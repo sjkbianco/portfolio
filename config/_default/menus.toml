@@ -14,29 +14,24 @@
 #  weight = 20
 
 [[main]]
-  name = "Ethical Practice"
-  url = "/post/ethical-practice"
+  name = "Personal Learning Network (PLN)"
+  url = "/post/plnethical-practice"
   weight = 20
 
 [[main]]
-  name = "Integration"
-  url = "/post/integration"
+  name = "Authentic Learning Experiences"
+  url = "/post/authentic-learning"
   weight = 30
 
 [[main]]
-  name = "Evaluation"
-  url = "/post/evaluation"
+  name = "Digital Citizenship"
+  url = "/post/digital-citizenship"
   weight = 40
 
 [[main]]
-  name = "Diverse Learners"
-  url = "/post/diverse-learners"
+  name = "Personalized Learning"
+  url = "/post/personalized-learning"
   weight = 50
-
-[[main]]
-  name = "Professional Learning"
-  url = "/post/professional-learning"
-  weight = 60
 
 # [[main]]
 #  name = "Talks"
@@ -56,7 +51,7 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
