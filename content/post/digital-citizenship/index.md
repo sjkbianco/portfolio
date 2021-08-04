@@ -28,4 +28,4 @@ header:
 </div>
 <p><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAElOCUGsFY&#x2F;view?utm_content=DAElOCUGsFY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">FSW Digital Citizenship Infographic</a> by Steven Bianco</p>
 
-[Infographic Text Transcript](ttps://sjkbianco.netlify.app/post/digital-citizenship/infographic-transcript.html)
+[Infographic Text Transcript](https://sjkbianco.netlify.app/post/digital-citizenship/infographic-transcript.html)
