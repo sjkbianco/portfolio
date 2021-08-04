@@ -18,6 +18,8 @@ header:
   image: "https://sjkbianco.netlify.app/post/authentic-learning/keagan-henman-pPxJTtxfV1A-unsplash.jpg"
 ---
 
+<!-- Add a paragraph reflecting on your experience with at least one of the activities you completed related to authentic learning experiences. What did you learn? How and why would you integrate one of the digital tools from these activities in your own professional practice?-->
+
 <iframe src="https://anchor.fm/steven-bianco/embed" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## Transcripts
