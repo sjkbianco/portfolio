@@ -28,7 +28,7 @@ education:
   courses:
   - course: MA Curriculum and Instruction Educational Technology
     institution: Florida Gulf Coast University
-    year: Expected graduation Fall 2021
+    year: 2021
   - course: BAS in Supervision and Management
     institution: Florida SouthWestern State College
     year: 2015
@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Steven Bianco is the Coordinator, Accessibility and LMS Administration serving [Florida SouthWestern State College (FSW) from the College's Office of Information Technology (OIT)](https://www.fsw.edu/helpdesk) since August 2018. He works closely with the [Office of ADAptive Services](https://www.fsw.edu/adaptiveservices), [The Learning Center](https://www.fsw.edu/tlc), [eLearning](https://www.fsw.edu/elearning), and other areas. He holds a Bachelors of Applied Science in Supervision and Management from FSW and has been with the College for 15 years. His work centers on web accessibility, eLearning content, Assistive Technologies, and providing resources and guidance to promote increased access. Prior to working for OIT, he served the College's Library Services as a Library Systems Specialist integrating technologies for improved library services and workflows.
+Steven Bianco is the Coordinator of Accessibility and LMS Administration serving Florida SouthWestern State College (FSW) from the College's Office of Information Technology (OIT) since August, 2018. He works closely with the [https://www.fsw.edu/adaptiveservices](Office of ADAptive Services), [https://www.fsw.edu/tlc](Teaching and Learning Center), [https://www.fsw.edu/online](eLearning), and other areas. He holds a Masters of Arts in Curriculum and Instruction in Educational Technology from Florida Gulf Coast University and a Bachelor's of Applied Science in Supervision and Management. He has been with FSW for 15 years and his work centers on web accessibility, eLearning content, Assistive Technologies, and providing resources and guidance to promote increased access. Prior to working for OIT, he served the College's Library Services as a Library Technology Systems Specialist integrating technologies for improved library services and workflows.
