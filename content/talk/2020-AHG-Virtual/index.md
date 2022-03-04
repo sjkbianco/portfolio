@@ -10,8 +10,8 @@ abstract: "In 2018, three employees of the Florida State College system met at a
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-11-19T03:30:00Z"
-date_end: "2020-11-19T04:30:00Z"
+date: "2020-11-19T15:30:00Z"
+date_end: "2020-11-19T16:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
