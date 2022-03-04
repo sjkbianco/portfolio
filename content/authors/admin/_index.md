@@ -53,6 +53,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/sjkbianco
+- icon: certificate
+  icon_pack: fab
+  link: https://api.badgr.io/public/collections/6b04bb2fbdadebffb0d8dd203a56b0b9
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
