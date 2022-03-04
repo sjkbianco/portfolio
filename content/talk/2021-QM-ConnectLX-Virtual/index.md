@@ -10,8 +10,8 @@ abstract: "Are institutional silos impacting the quality of your online courses?
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-06-15T10:00:00Z"
-date_end: "2021-06-15T10:45:00Z"
+date: "2021-11-04T14:00:00Z"
+date_end: "2021-11-04T14:45:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -29,8 +29,8 @@ featured: true
 
 links:
 url_code: ""
-url_pdf: ""
-url_slides: "/talk/2021-QM-ConnectLX-Virtual/Bianco%20et%20al.%202021%20QM%20ConnectLX%20Shared%20Resources.pdf"
+url_pdf: "/talk/2021-QM-ConnectLX-Virtual/Bianco%20et%20al.%202021%20QM%20ConnectLX%20Shared%20Resources.pdf"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
