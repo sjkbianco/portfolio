@@ -1,5 +1,5 @@
 ---
-title: Cross Departmental Accessibility Focus: College-Wide Student Success and Online Courses
+title: "Cross Departmental Accessibility Focus: College-Wide Student Success and Online Courses"
 event: Accessing Higher Ground, 2021
 event_url: https://accessinghigherground.org/cross-departmental-accessibility-focus-college-wide-student-success-and-online-courses/
 
