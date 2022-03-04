@@ -28,7 +28,7 @@ featured: true
 #  focal_point: Right
 
 links:
-url_code: "/talk/2021-Virtual-FPCTP/Text%20Outline.html"
+url_code: ""
 url_pdf: ""
 url_slides: "/talk/2020-AHG-Virtual/Accessing-Higher-Ground-2020-The-Florida-State-EIT-Consortium.pptx"
 url_video: ""
