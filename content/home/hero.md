@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "EME 6405 Integrating Technology into Instruction"
+title = "Educational Technology Philosophy"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = ""
