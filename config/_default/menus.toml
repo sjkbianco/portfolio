@@ -8,50 +8,35 @@
   url = "/"
   weight = 10
 
-# [[main]]
-#  name = "Bio"
-#  url = "#about"
-#  weight = 20
-
 [[main]]
-  name = "Personal Learning Network (PLN)"
-  url = "/post/pln"
+  name = "Experience"
+  url = "#experience"
   weight = 20
 
 [[main]]
-  name = "Authentic Learning Experiences"
-  url = "/post/authentic-learning"
+  name = "Talks"
+  url = "#talks"
   weight = 30
 
 [[main]]
-  name = "Digital Citizenship"
-  url = "/post/digital-citizenship"
+  name = "Projects"
+  url = "#projects"
   weight = 40
 
 [[main]]
-  name = "Personalized Learning"
-  url = "/post/personalized-learning"
+  name = "Publications"
+  url = "#publications"
   weight = 50
 
-# [[main]]
-#  name = "Talks"
-#  url = "#talks"
-#  weight = 80
-
-# [[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 90
-
-# [[main]]
-#  name = "Publications"
-#  url = "#publications"
-#  weight = 100
+[[main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
