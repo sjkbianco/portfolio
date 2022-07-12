@@ -25,7 +25,7 @@ header:
   * [Getting Started with Sway (Microsoft)](https://support.microsoft.com/en-us/office/getting-started-with-sway-2076c468-63f4-4a89-ae5f-424796714a8a)
   * [Introduction to Sway (Microsoft)](https://education.microsoft.com/en-us/resource/67e43b8e)
 
-<div class="embed-responsive embed-responsive-16by9 mt-3 mb-3"><iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/pcg6DGO9hpI?ecver=1&amp;cc_load_policy=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;" class="embed-responsive-item" allowtransparency="true" frameborder="0"></iframe></div>
+{{< youtube 2CwjBK2ENdk >}}
 
 ## Sway Pros
 
