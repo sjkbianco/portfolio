@@ -59,3 +59,5 @@ For this Twitter chat I did not prepare answers in advance. The chat had ended b
 ## Twitter Chat Archive
 
 [UDLchat January 15, 2020 Twitter Chat Archive](https://wakelet.com/wake/2e4aeb69-b9d9-4917-84ce-ae3d270f70fa)
+
+[UDLchat January 15, 2020 (PDF)](https://sjkbianco.netlify.app/post/udlchat-01152020/UDLchat%20January%2015%2C%202020.pdf){:target="_blank"}
