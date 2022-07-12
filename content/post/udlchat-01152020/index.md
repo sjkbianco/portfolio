@@ -1,5 +1,5 @@
 ---
-title: #UDLChat 1/15/2020
+title: &#35;UDLChat 1/15/2020
 summary: 
 tags:
 - UDLChat
@@ -12,8 +12,8 @@ profile: true  # Show author profile?
 comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Photo by [Keagan Henman](https://unsplash.com/@henmankk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/create?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
-  image: "https://sjkbianco.netlify.app/post/authentic-learning/keagan-henman-pPxJTtxfV1A-unsplash.jpg"
+  caption: "Photo from [Unbridling Your Brilliance](https://unbridlingyourbrilliance.com/are-you-a-born-leader-take-stock-of-your-skills-now/)"
+  image: "https://sjkbianco.netlify.app/post/udlchat-01152020/Take-stock-of-your-leadership-skills-.jpg"
 ---
 
 This was my very first Twitter chat. I had never heard of Twitter being utilized for live chatting before. When Twitter came out, it was a method of communication to send static messages and reply asynchronously. I did some basic research before the session on how to effectively participate in a Twitter chat and located an article (McCabe, 2018) that helped me better understand how to do so. I did realize quickly during this chat session that I needed to find a program or website that automatically reloads the hashtag #UDLChat to make it a more of a synchronous experience. Initially, I was running Twitter through the Android app on my smartphone and my desktop computer through a web browser. The chat progressed rather rapidly, and I feel like I fell behind in needing to reload the page often. I ended up not seeing the final question post and did not answer.
