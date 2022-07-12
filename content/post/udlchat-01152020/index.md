@@ -1,5 +1,5 @@
 ---
-title: {% raw %}#{% endraw %}UDLChat 1/15/2020
+title: UDLChat 1/15/2020
 summary: 
 tags:
 - UDLChat
