@@ -16,6 +16,9 @@ header:
   image: "https://sjkbianco.netlify.app/post/udlchat-01152020/Take-stock-of-your-leadership-skills-.jpg"
 ---
 
+![#UDLchat Question/Answer Protocol: Chat moderator starts each question with Q1, Q2, Q3, ..... Chat participants answer with A1, A2, A3, .....](eoxh1irxsaacnt7.jpg "#UDLchat Question/Answer Protocol")
+
+
 This was my very first Twitter chat. I had never heard of Twitter being utilized for live chatting before. When Twitter came out, it was a method of communication to send static messages and reply asynchronously. I did some basic research before the session on how to effectively participate in a Twitter chat and located an article (McCabe, 2018) that helped me better understand how to do so. I did realize quickly during this chat session that I needed to find a program or website that automatically reloads the hashtag #UDLChat to make it a more of a synchronous experience. Initially, I was running Twitter through the Android app on my smartphone and my desktop computer through a web browser. The chat progressed rather rapidly, and I feel like I fell behind in needing to reload the page often. I ended up not seeing the final question post and did not answer.
 
 Joining the chat was easy. I was surprised to receive reactions and likes on my answers throughout the half-hour. During the chat session, "#UDL in Leadership," some good points were shared by the participants. I learned that modeling the UDL framework and practices, along with providing training to staff and faculty, are critical components to being a leader and promoter of Universal Design for Learning. I also learned that to be an effective UDL Leader it is a continuous process of finding new ways to accomplish goals, keep current on practices in the field, and listening and collaborating with colleagues to keep the momentum moving forward.
