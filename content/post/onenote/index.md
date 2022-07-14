@@ -32,7 +32,7 @@ header:
   * [OneNote Web Clipper for Firefox](https://addons.mozilla.org/en-US/firefox/addon/onenote-clipper/)
   * [OneNote Web Clipper for Edge](https://microsoftedge.microsoft.com/addons/detail/onenote-web-clipper/oogbnpmeihfgnccdnmmlgicknopghhma?source=sfw)
 
-<div class="embed-responsive embed-responsive-16by9 mt-3 mb-3"><iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/SGRoQBUNZCM?ecver=1&amp;cc_load_policy=1&amp;iv_load_policy=3&amp;yt:stretch=16:9&amp;autohide=1&amp;" class="embed-responsive-item" allowtransparency="true" frameborder="0"></iframe></div>
+{{< youtube SGRoQBUNZCM >}}
 
 ## Additional Links
   * [Microsoft Learning Tools (Microsoft)](https://www.onenote.com/learningtools)
