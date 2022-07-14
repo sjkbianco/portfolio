@@ -16,6 +16,9 @@ header:
   caption: "Photo by [Dan Nelson](https://unsplash.com/@danny144?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/privacy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
   image: "privacy.jpg"
 ---
+
+{{< toc >}}
+
 > Digital citizenship is a topic traditionally taught within the K-12 curriculum. However, it is essential to reinforce within higher education as well as we face additional complexities.
 
 ## Digital Citizenship in Higher Education
