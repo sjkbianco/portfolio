@@ -15,6 +15,8 @@ header:
   image: "suggestion-1.jpg"
 ---
 
+{{< toc >}}
+
 > Implementation is an essential piece of the puzzle for engaging learning experiences. Check out these guidelines.
 
 ## Buy-In
