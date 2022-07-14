@@ -58,4 +58,4 @@ I felt knowledgeable about the topic of implementation but wanted to see the opi
 
 [UDLchat February 19, 2020 Twitter Chat Archive (Wakelet)](https://wakelet.com/wake/0af6be78-f8e4-4884-8248-bf13d50f4e80)
 
-[UDLchat January 15, 2020 (PDF)](UDLchat%20February%2019%2C%202020.pdf)
+[UDLchat February 19, 2020 (PDF)](UDLchat%20February%2019%2C%202020.pdf)
