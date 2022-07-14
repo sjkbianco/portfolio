@@ -15,6 +15,8 @@ header:
   image: "reflection-2.jpg"
 ---
 
+{{< toc >}}
+
 > While there is no "one-size-fits-all" format to education, different learning envrionments have best practices.
 
 Reiser (2001) defines instructional media as the "physical means, other than the teacher, chalkboard, and textbook, via which instruction is presented to learners." Clark (2011) quotes Schwen (1977) defining instructional media as "[m]edia is the plural of medium, which in learning and training environments, is the means of communicating and transferring a learning concept or objective to another individual. Media are the replicable 'means,' forms, or vehicles by which instruction is formatted, stored, and delivered to the learner." Overall, both definitions separate the instructor/educator, primary texts, and tools from media. Reiser (2001) also states that many individuals often equate instructional technology and instructional media. Both definitions provide the basis that instructional media are the supplemental materials and displays of information to align with instructional goals. The instructor conveys the lesson through the selected learning environment and can do so using other media. The primary text provides the basis or material of the course. Reiser's definition mentions tools as chalk and chalkboard. Other devices can include a pencil and paper and a computer to store information to remember and organize facts. However, the tools can produce and preserve media through replicable means.
