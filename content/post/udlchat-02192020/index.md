@@ -13,7 +13,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: "Photo from [M.SaaS](https://msaas.com.sg/erp-implementation-methodology-the-seven-step-approach/)"
-  image: "https://sjkbianco.netlify.app/post/udlchat-02192020/lg-how-coding-improve-collaboration-and-cooperation.jpg"
+  image: "https://sjkbianco.netlify.app/post/udlchat-02192020/what-is-implementation.jpg"
 ---
 
 {{< toc >}}
