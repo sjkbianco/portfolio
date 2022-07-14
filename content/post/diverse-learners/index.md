@@ -18,6 +18,8 @@ header:
   image: "diversity.jpg"
 ---
 
+{{< toc >}}
+
 > Diverse learners can utilize free tools provided by Microsoft to enhance their online learning experience through creative presentations and media-rich note-taking.
 
 Microsoft provides a variety of productivity software solutions for use within the private and public industry and education. Many of their web-based software applications are available for free with a Microsoft account. In terms of the online learning environment, two of their applications allow for flexibility of expression and encourage collaboration. These two programs are Microsoft Sway, a web-based presentation or newsletter creation tool, and OneNote, an electronic note-taking application.
