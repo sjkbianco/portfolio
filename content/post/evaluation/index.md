@@ -17,6 +17,8 @@ header:
   image: "evaluation.jpg"
 ---
 
+{{< toc >}}
+
 > Evaluation and implementation are essential pieces of the puzzle for engaging learning experiences. Alignment of both aspects will allow for the intentional use of selected materials.
 
 ## Technology Impacts
