@@ -17,11 +17,13 @@ header:
   image: "integration.jpg"
 ---
 
+{{< toc >}}
+
 > The integration of technology within an in-person or entirely online course requires strategy and alignment.
 
 ## The Technology Integration Matrix
 
-[![The Technology Integration Matrix with descriptions. External website opens in new tab.](/post/integration/2019LevelsCharSlideWide.jpg)](https://fcit.usf.edu/matrix/matrix/)
+[![The Technology Integration Matrix with descriptions. External website opens in new tab.](2019LevelsCharSlideWide.jpg)](https://fcit.usf.edu/matrix/matrix/)
 
 The Technology Integration Matrix (TIM) is a framework developed by the Florida Center for Instructional Technology at the University of South Florida. The goal of the TIM is to provide a "common vocabulary for pedagogically sound technology integration for teachers, school leaders, coaches, researchers, evaluators, and professional development facilitators" (Florida Center for Instructional Technology, n.d.). Development work began on the TIM in 2003. The current version of the matrix is the third edition developed in 2019. While the focus of the TIM videos and related training content is within the K-12 education domain, the framework can work for higher education.
 
