@@ -17,6 +17,8 @@ header:
   image: "pd.jpg"
 ---
 
+{{< toc >}}
+
 > With so many professional learning opportunities within the instructional technology field available, it can sometimes be a daunting task to keep track. Try some of these comprehensive opportunities to stay current.
 
 Professional development through your workplace is always an ideal track to keep current with pedagogical practices and the potential of new technology tools adopted by the institution. However, many of these opportunities may not exist for smaller instructional design teams or institutions with limited online course offerings. Fortunately, instructional technology does not lack free professional development opportunities and connections with other professionals.
