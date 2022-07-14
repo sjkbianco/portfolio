@@ -15,6 +15,8 @@ header:
   image: "suggestion-2.jpg"
 ---
 
+{{< toc >}}
+
 > Selecting educational technologies with the greatest range of platform availability and accessibility is essential, check out some guidelines.
 
 When selecting online content or outside tools, it is important to consider everyone who uses it. Use the following questions when looking at products for potential adoption:
