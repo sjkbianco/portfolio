@@ -43,6 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
+  title: 'Email'
   link: 'mailto:sjkbianco@gmail.com'
 - icon: twitter
   icon_pack: fab
