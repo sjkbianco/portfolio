@@ -24,7 +24,7 @@ header:
 
 Before the twitter chat, one of the posts I saw tagged seemed like an exciting resource to use when designing curriculum and lessons. I downloaded the "[UDL Tic-Tac-Toe](https://docs.google.com/document/d/1V943PIk_pD4Yh65W3a4OslJWnjTTyxlJ_8GDjyn2Bv4/edit?usp=sharing)" sheet and plan on using it in the future to develop lessons, activities, assignments, and presentations.
 
-{{< tweet 1235369102518206464 caption="Universal Design for Learning (UDL) \"Tic-Tac-Toe\"" >}}
+{{< tweet 1235369102518206464 caption="Universal Design for Learning (UDL) Tic-Tac-Toe" >}}
 
 The topic of creative confidence was interesting, so I researched the definition and concept. Creative confidence is defined by openIDEO (2013) as "[h]aving the freedom and courage to fail/take creative risks and the knowledge that all of the ideas you create have value." The Twitter chat followed the concept in the book Creative Confidence by David M. Kelley and Tom Kelley, Crown, 2013. As we hope to develop our UDL practices further, we need to leave room for failure and use that toward improving upon our methods and not just giving up. Even the best planning will have unexpected circumstances. Learning from the unexpected is the only way to anticipate it in the future.
 
