@@ -47,15 +47,19 @@ social:
   link: 'mailto:sjkbianco@gmail.com'
 - icon: twitter
   icon_pack: fab
+  title: 'Twitter'
   link: https://twitter.com/StevenBianco4
 - icon: linkedin
   icon_pack: fab
+  title: 'LinkedIn'
   link: https://www.linkedin.com/in/sjbianco/
 - icon: github
   icon_pack: fab
+  title: 'GitHub'
   link: https://github.com/sjkbianco
 - icon: certificate
   icon_pack: fas
+  title: 'Badger'
   link: https://api.badgr.io/public/collections/6b04bb2fbdadebffb0d8dd203a56b0b9
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
