@@ -12,7 +12,7 @@ profile: true  # Show author profile?
 comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Photo from [Student CareerPath Planning Program](https://studentcareerpathplanning.com/empowering-or-enabling/)"
+  caption: "Photo from [EdTechReview](https://edtechreview.in/news/2164-learning-in-engaged-online-communities)"
   image: "https://sjkbianco.netlify.app/post/udlchat-04152020/social-learning-outperforms-remote-learning.jpg"
 ---
 
