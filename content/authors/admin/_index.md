@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Steven Bianco
+title: Steven Kolberg
 
 # Is this the primary user of the site?
 superuser: true
@@ -80,4 +80,4 @@ user_groups:
 - Visitors
 ---
 
-Steven Bianco is the Coordinator of Accessibility and LMS Administration serving [Florida SouthWestern State College (FSW) from the College's Office of Information Technology (OIT)](https://www.fsw.edu/oit) since August, 2018. He works closely with the [Office of ADAptive Services](https://www.fsw.edu/adaptiveservices), [Teaching and Learning Center](https://www.fsw.edu/tlc), [FSW Online/Learning Technologies](https://www.fsw.edu/online), and other areas. He holds a Masters of Arts in Curriculum and Instruction in Educational Technology from Florida Gulf Coast University and a Bachelor's of Applied Science in Supervision and Management from Florida SouthWestern State College (FSW). He has been employed with FSW since 2015 and his work centers on web accessibility, online course content, Assistive Technologies, and providing resources and guidance to promote increased access. Prior to working for OIT, he served the College's Library Services as a Library Technology Systems Specialist integrating technologies for improved library services and workflows.
+Steven Kolberg is the Coordinator of Accessibility and LMS Administration serving [Florida SouthWestern State College (FSW) from the College's Office of Information Technology (OIT)](https://www.fsw.edu/oit) since August, 2018. He works closely with the [Office of ADAptive Services](https://www.fsw.edu/adaptiveservices), [Teaching and Learning Center](https://www.fsw.edu/tlc), [FSW Online/Learning Technologies](https://www.fsw.edu/online), and other areas. He holds a Masters of Arts in Curriculum and Instruction in Educational Technology from Florida Gulf Coast University and a Bachelor's of Applied Science in Supervision and Management from Florida SouthWestern State College (FSW). He has been employed with FSW since 2015 and his work centers on web accessibility, online course content, Assistive Technologies, and providing resources and guidance to promote increased access. Prior to working for OIT, he served the College's Library Services as a Library Technology Systems Specialist integrating technologies for improved library services and workflows.
