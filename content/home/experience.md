@@ -18,11 +18,11 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Coordinator, Accessibility and LMS Administration"
+  title = "Senior Coordinator, Accessibility and LMS Administration"
   company = "Florida SouthWestern State College, Office of Information Technology"
   company_url = "https://www.fsw.edu/helpdesk"
   location = "Fort Myers, Florida"
-  date_start = "2020-11-16"
+  date_start = "2023-10-16"
   date_end = ""
   description = """
   Responsibilities include:
@@ -30,6 +30,22 @@ date_format = "Jan 2006"
   * LTI Implementation
   * SIS Integration
   * Canvas Operational Oversight
+  """
+
+[[experience]]
+  title = "Coordinator, Accessibility and LMS Administration"
+  company = "Florida SouthWestern State College, Office of Information Technology"
+  company_url = "https://www.fsw.edu/helpdesk"
+  location = "Fort Myers, Florida"
+  date_start = "2020-11-16"
+  date_end = "2023-10-15"
+  description = """
+  Responsibilities include:
+  
+  * LTI Implementation
+  * SIS Integration
+  * Canvas Operational Oversight
+  * Custom Reporting
   """
 
 [[experience]]
